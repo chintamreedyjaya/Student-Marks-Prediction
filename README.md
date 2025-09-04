@@ -23,6 +23,3 @@ This repository contains datasets and Jupyter notebooks for experimenting with s
 3. Run the notebooks:
    - Use `400&300.ipynb` for smaller dataset experiments.
    - Use `accuracy with(1500).ipynb` for full 1500-row experiments.
-
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
