@@ -1,0 +1,1501 @@
+Name,RollNumber,ClassDivision,Subject,StudyHours,Attendance,PreviousScore,AssignmentsCompleted,SleepHours,Extracurriculars,ParentalSupport,TeacherRating,PredictedMarks
+Harshita Yadav,23MLAI11,ML-AI A,Physics,3.3,79,87,60,8.8,4,3,7,49
+Jaya Chintamreddy,23MLAI05,ML-AI A,Mathematics,1.0,56,51,78,6.6,4,3,9,92
+Vivek Iyer,23MLAI29,ML-AI A,Chemistry,7.9,71,95,95,9.5,9,7,5,46
+Tanya Dave,23MLAI17,ML-AI A,History,9.0,98,57,81,9.3,4,2,10,97
+Omkar Singh,23MLAI25,ML-AI A,English,1.1,92,80,65,8.2,1,10,4,61
+Karan Chauhan,23MLAI18,ML-AI A,Physics,11.7,78,55,54,7.5,6,3,9,44
+Ravi Mehta,23MLAI03,ML-AI A,Economics,6.1,66,69,82,6.1,3,2,9,41
+Jaya Chintamreddy,23MLAI05,ML-AI A,English,5.6,58,89,93,6.1,2,10,8,92
+Disha Pandya,23MLAI26,ML-AI A,History,9.8,81,51,60,6.7,2,9,2,78
+Aditi Chauhan,23MLAI13,ML-AI A,Geography,1.0,67,51,63,8.4,10,5,7,45
+Divya Gupta,23MLAI22,ML-AI A,Geography,7.2,68,95,74,6.2,0,1,7,56
+Tanvi Mehra,23MLAI28,ML-AI A,Computer Science,6.9,85,63,57,4.8,3,3,2,61
+Megha Joshi,23MLAI09,ML-AI A,Economics,5.1,68,78,84,9.3,1,3,3,92
+Tanvi Mehra,23MLAI28,ML-AI A,Economics,1.4,96,47,62,9.0,9,9,7,68
+Karan Chauhan,23MLAI18,ML-AI A,Mathematics,9.1,84,83,58,4.5,1,7,5,90
+Aditi Chauhan,23MLAI13,ML-AI A,Mathematics,6.5,56,49,57,4.4,7,9,1,66
+Sneha Desai,23MLAI02,ML-AI A,Chemistry,1.3,75,68,79,4.7,3,2,10,67
+Omkar Singh,23MLAI25,ML-AI A,Physics,9.7,71,52,46,4.0,2,1,2,55
+Preeti Patel,23MLAI19,ML-AI A,Computer Science,3.9,91,68,48,5.5,10,9,4,41
+Rahul Kumar,23MLAI21,ML-AI A,History,2.4,93,50,64,5.9,1,8,5,82
+Vivek Iyer,23MLAI29,ML-AI A,Economics,3.1,56,84,59,6.8,7,7,3,78
+Simran Kaur,23MLAI15,ML-AI A,Computer Science,3.5,80,76,88,8.9,0,5,3,62
+Nirali Desai,23MLAI20,ML-AI A,Computer Science,8.0,61,52,83,7.6,5,2,2,80
+Pooja Sharma,23MLAI04,ML-AI A,Physics,6.4,71,73,81,7.9,2,3,7,77
+Ravi Mehta,23MLAI03,ML-AI A,History,2.4,100,45,74,6.1,7,9,10,72
+Rahul Kumar,23MLAI21,ML-AI A,Physics,10.9,89,81,75,5.5,5,3,7,86
+Devansh Shah,23MLAI06,ML-AI A,Geography,4.5,54,96,85,8.0,7,6,4,63
+Jaya Chintamreddy,23MLAI05,ML-AI A,Biology,9.8,50,72,93,6.0,1,6,2,52
+Raj Shah,23MLAI27,ML-AI A,History,1.8,67,74,91,6.9,4,4,3,100
+Vivek Iyer,23MLAI29,ML-AI A,Chemistry,5.8,54,58,41,6.7,3,1,3,80
+Isha Patel,23MLAI30,ML-AI A,Physics,11.6,72,89,90,4.4,5,10,8,43
+Tanvi Mehra,23MLAI28,ML-AI A,Physics,9.3,81,65,78,10.0,3,2,3,75
+Aditi Chauhan,23MLAI13,ML-AI A,History,3.2,99,74,51,7.4,6,3,10,49
+Aditi Chauhan,23MLAI13,ML-AI A,Geography,7.3,63,46,83,7.0,9,8,7,87
+Divya Gupta,23MLAI22,ML-AI A,Biology,3.3,76,47,87,5.6,8,4,8,73
+Devansh Shah,23MLAI06,ML-AI A,Physics,2.0,78,79,66,4.9,9,2,1,92
+Yash Thakkar,23MLAI12,ML-AI A,Physics,8.7,88,55,45,5.8,9,5,10,79
+Rohan Shah,23MLAI16,ML-AI A,Biology,7.5,99,56,92,4.3,10,8,7,71
+Disha Pandya,23MLAI26,ML-AI A,Physics,8.5,94,95,82,8.3,1,8,5,55
+Preeti Patel,23MLAI19,ML-AI A,Computer Science,10.0,80,82,68,9.2,2,3,7,74
+Jaya Chintamreddy,23MLAI05,ML-AI A,Chemistry,7.0,81,55,57,4.2,10,1,1,85
+Isha Patel,23MLAI30,ML-AI A,History,1.9,74,53,65,7.4,5,1,8,53
+Sneha Desai,23MLAI02,ML-AI A,Computer Science,10.0,50,68,44,4.6,3,1,1,87
+Sanya Jain,23MLAI24,ML-AI A,Mathematics,2.1,75,46,49,9.9,3,4,2,81
+Arjun Rathi,23MLAI23,ML-AI A,Computer Science,10.9,57,88,66,5.2,1,1,4,40
+Megha Joshi,23MLAI09,ML-AI A,Psychology,3.5,57,60,62,9.9,0,8,2,61
+Aryan Patel,23MLAI01,ML-AI A,Chemistry,5.4,50,65,81,8.3,10,2,1,76
+Arjun Rathi,23MLAI23,ML-AI A,Mathematics,9.4,55,78,96,7.2,5,6,2,68
+Preeti Patel,23MLAI19,ML-AI A,Biology,7.8,69,97,55,7.8,8,3,1,93
+Nikhil Rana,23MLAI10,ML-AI A,Psychology,5.7,100,68,81,4.5,1,4,9,77
+Harshita Yadav,23MLAI11,ML-AI A,Physics,6.2,56,79,61,4.1,0,8,6,41
+Vishal Sinha,23MLAI14,ML-AI A,Psychology,3.2,94,96,59,6.0,2,10,4,71
+Simran Kaur,23MLAI15,ML-AI A,History,3.1,77,62,47,4.3,3,9,6,73
+Karan Chauhan,23MLAI18,ML-AI A,Computer Science,3.8,99,57,88,6.9,7,5,10,82
+Aditi Chauhan,23MLAI13,ML-AI A,Psychology,11.2,86,48,86,8.1,6,3,2,74
+Harshita Yadav,23MLAI11,ML-AI A,Mathematics,12.0,89,48,82,4.1,3,9,10,58
+Pooja Sharma,23MLAI04,ML-AI A,Economics,6.6,64,83,84,9.8,0,7,7,68
+Karan Chauhan,23MLAI18,ML-AI A,Geography,3.3,50,90,86,7.2,0,4,10,43
+Sneha Desai,23MLAI02,ML-AI A,History,2.6,53,63,65,8.0,8,2,5,61
+Pooja Sharma,23MLAI04,ML-AI A,History,10.4,82,41,93,7.0,9,5,5,83
+Isha Patel,23MLAI30,ML-AI A,Computer Science,4.5,69,79,44,10.0,10,8,3,55
+Tanya Dave,23MLAI17,ML-AI A,Geography,5.4,90,88,52,8.2,9,6,10,79
+Harshita Yadav,23MLAI11,ML-AI A,Chemistry,10.1,88,49,92,7.5,8,7,5,58
+Karan Chauhan,23MLAI18,ML-AI A,English,4.8,80,88,46,7.6,2,9,10,90
+Nirali Desai,23MLAI20,ML-AI A,Biology,5.8,63,93,96,7.3,9,1,8,50
+Arjun Rathi,23MLAI23,ML-AI A,Mathematics,10.2,91,86,86,6.8,6,7,1,57
+Vishal Sinha,23MLAI14,ML-AI A,Physics,7.3,63,98,90,5.2,9,9,3,79
+Preeti Patel,23MLAI19,ML-AI A,Economics,3.2,65,59,70,6.0,2,5,2,90
+Tanvi Mehra,23MLAI28,ML-AI A,Physics,6.1,59,54,94,5.8,6,9,2,94
+Tanvi Mehra,23MLAI28,ML-AI A,Physics,4.8,61,47,58,9.8,5,5,9,71
+Ravi Mehta,23MLAI03,ML-AI A,Economics,7.7,68,79,76,7.1,3,8,3,49
+Ravi Mehta,23MLAI03,ML-AI A,Psychology,6.0,77,44,65,5.0,9,8,8,64
+Raj Shah,23MLAI27,ML-AI A,Geography,2.6,57,55,65,9.6,7,9,7,60
+Megha Joshi,23MLAI09,ML-AI A,Biology,3.2,94,69,89,5.5,2,5,8,100
+Jaya Chintamreddy,23MLAI05,ML-AI A,Computer Science,9.2,60,56,69,6.6,5,10,6,64
+Megha Joshi,23MLAI09,ML-AI A,Chemistry,1.3,80,93,92,8.4,2,8,6,63
+Vivek Iyer,23MLAI29,ML-AI A,Economics,10.5,88,95,87,6.6,1,5,7,84
+Nikhil Rana,23MLAI10,ML-AI A,Economics,5.8,94,57,48,9.2,1,8,10,59
+Rohan Shah,23MLAI16,ML-AI A,Physics,4.7,55,49,66,4.3,5,8,1,91
+Jaya Chintamreddy,23MLAI05,ML-AI A,History,7.1,81,93,76,9.8,0,3,10,74
+Rohan Shah,23MLAI16,ML-AI A,Biology,7.0,95,44,47,5.0,6,9,7,41
+Karan Chauhan,23MLAI18,ML-AI A,English,6.2,71,71,70,7.7,0,5,3,50
+Aman Verma,23MLAI08,ML-AI A,Biology,7.7,91,70,47,4.4,2,1,3,91
+Aman Verma,23MLAI08,ML-AI A,Biology,4.6,70,42,72,8.5,4,7,7,80
+Aditi Chauhan,23MLAI13,ML-AI A,Computer Science,9.3,89,67,48,5.3,6,9,1,66
+Disha Pandya,23MLAI26,ML-AI A,Biology,9.3,51,62,99,9.3,3,8,5,96
+Vivek Iyer,23MLAI29,ML-AI A,History,1.0,93,90,98,5.2,4,5,4,90
+Nikhil Rana,23MLAI10,ML-AI A,Computer Science,1.1,70,90,97,4.3,7,6,3,73
+Aditi Chauhan,23MLAI13,ML-AI A,Biology,8.2,93,66,65,9.6,10,4,9,93
+Disha Pandya,23MLAI26,ML-AI A,Mathematics,8.6,71,43,93,7.7,1,2,2,84
+Yash Thakkar,23MLAI12,ML-AI A,Geography,3.0,100,48,87,7.7,3,2,10,95
+Aditi Chauhan,23MLAI13,ML-AI A,English,9.6,96,63,67,9.0,2,2,1,91
+Divya Gupta,23MLAI22,ML-AI A,Geography,8.7,53,61,97,6.7,6,5,4,58
+Tanvi Mehra,23MLAI28,ML-AI A,Computer Science,9.5,68,82,62,7.5,6,4,3,85
+Vishal Sinha,23MLAI14,ML-AI A,Chemistry,6.7,66,86,87,6.8,4,4,9,56
+Rahul Kumar,23MLAI21,ML-AI A,Psychology,4.9,83,49,49,9.1,1,2,4,41
+Aditi Chauhan,23MLAI13,ML-AI A,Geography,7.0,82,55,69,6.1,4,1,7,53
+Aryan Patel,23MLAI01,ML-AI A,Geography,2.5,57,96,96,8.0,7,3,10,98
+Rohan Shah,23MLAI16,ML-AI A,Biology,9.0,50,95,77,5.5,6,10,4,79
+Omkar Singh,23MLAI25,ML-AI A,Biology,9.0,69,91,48,9.4,2,2,4,54
+Pooja Sharma,23MLAI04,ML-AI A,Biology,11.2,71,72,97,9.8,8,7,6,41
+Vishal Sinha,23MLAI14,ML-AI A,Chemistry,10.5,85,91,76,4.6,2,2,1,73
+Tanya Dave,23MLAI17,ML-AI A,Chemistry,5.5,91,74,46,5.1,6,4,5,62
+Rahul Kumar,23MLAI21,ML-AI A,Mathematics,7.7,65,74,60,8.4,0,3,7,67
+Ravi Mehta,23MLAI03,ML-AI A,Chemistry,2.0,59,70,81,7.8,7,7,1,100
+Vishal Sinha,23MLAI14,ML-AI A,Chemistry,5.0,55,42,61,9.6,3,5,3,44
+Aman Verma,23MLAI08,ML-AI A,English,3.9,79,100,95,6.6,6,10,2,86
+Karan Chauhan,23MLAI18,ML-AI A,Biology,10.2,58,93,82,4.3,0,6,3,69
+Sanya Jain,23MLAI24,ML-AI A,Computer Science,4.0,56,92,47,4.4,0,6,7,45
+Yash Thakkar,23MLAI12,ML-AI A,Physics,7.1,81,71,47,9.0,8,5,2,54
+Yash Thakkar,23MLAI12,ML-AI A,History,2.2,62,64,55,4.9,7,9,7,57
+Arjun Rathi,23MLAI23,ML-AI A,Chemistry,2.6,80,40,81,6.0,9,6,9,66
+Omkar Singh,23MLAI25,ML-AI A,Mathematics,3.5,68,92,95,9.8,1,7,8,73
+Nikhil Rana,23MLAI10,ML-AI A,English,11.1,100,65,70,4.8,8,7,6,53
+Pooja Sharma,23MLAI04,ML-AI A,Economics,6.1,83,72,60,6.1,4,5,3,43
+Megha Joshi,23MLAI09,ML-AI A,Computer Science,2.0,60,100,100,6.5,3,1,4,70
+Megha Joshi,23MLAI09,ML-AI A,Chemistry,3.6,90,88,84,6.1,8,5,8,75
+Arjun Rathi,23MLAI23,ML-AI A,Computer Science,11.8,63,49,78,6.8,9,3,10,74
+Arjun Rathi,23MLAI23,ML-AI A,Economics,8.4,79,65,98,6.0,5,4,10,82
+Preeti Patel,23MLAI19,ML-AI A,Computer Science,10.2,79,65,82,8.7,7,1,4,80
+Raj Shah,23MLAI27,ML-AI A,Computer Science,2.3,93,40,87,9.9,10,4,10,89
+Rahul Kumar,23MLAI21,ML-AI A,Psychology,8.9,58,80,72,4.5,3,7,1,77
+Jaya Chintamreddy,23MLAI05,ML-AI A,Chemistry,10.7,70,78,89,5.0,4,8,3,87
+Rahul Kumar,23MLAI21,ML-AI A,History,2.0,82,49,99,7.4,0,7,7,97
+Karan Chauhan,23MLAI18,ML-AI A,Biology,11.3,82,61,45,7.8,4,5,9,100
+Divya Gupta,23MLAI22,ML-AI A,Psychology,9.9,79,86,97,8.7,0,3,2,88
+Pooja Sharma,23MLAI04,ML-AI A,Mathematics,8.0,53,100,92,9.7,8,7,10,68
+Raj Shah,23MLAI27,ML-AI A,History,3.0,96,63,78,6.9,8,1,5,64
+Aman Verma,23MLAI08,ML-AI A,History,9.1,55,89,63,9.7,1,8,1,62
+Aman Verma,23MLAI08,ML-AI A,Psychology,6.2,77,66,94,8.0,0,5,3,100
+Megha Joshi,23MLAI09,ML-AI A,Computer Science,10.9,92,83,94,7.8,4,5,7,86
+Yash Thakkar,23MLAI12,ML-AI A,Economics,11.9,88,54,75,4.8,6,6,10,92
+Sneha Desai,23MLAI02,ML-AI A,Economics,6.5,58,42,82,8.0,7,9,7,49
+Harshita Yadav,23MLAI11,ML-AI A,Mathematics,9.3,81,89,53,8.4,5,2,6,100
+Raj Shah,23MLAI27,ML-AI A,Mathematics,9.8,91,59,83,8.1,6,2,8,76
+Vishal Sinha,23MLAI14,ML-AI A,Physics,9.8,94,59,92,8.6,3,5,7,64
+Tanvi Mehra,23MLAI28,ML-AI A,Psychology,6.8,83,52,66,4.2,5,10,2,59
+Divya Gupta,23MLAI22,ML-AI A,English,8.0,84,42,52,5.0,8,2,4,95
+Tanya Dave,23MLAI17,ML-AI A,Economics,10.1,82,86,74,8.0,3,1,1,52
+Arjun Rathi,23MLAI23,ML-AI A,Geography,9.9,95,58,43,7.4,2,3,9,66
+Aryan Patel,23MLAI01,ML-AI A,English,9.7,86,60,68,5.9,10,2,4,56
+Megha Joshi,23MLAI09,ML-AI A,Computer Science,12.0,70,88,90,6.3,10,8,4,72
+Aman Verma,23MLAI08,ML-AI A,Chemistry,7.6,62,48,49,7.3,9,8,10,91
+Disha Pandya,23MLAI26,ML-AI A,Geography,6.4,90,99,95,5.5,1,9,9,78
+Rohan Shah,23MLAI16,ML-AI A,Mathematics,9.1,59,74,78,4.6,2,5,4,48
+Aman Verma,23MLAI08,ML-AI A,English,5.9,59,62,82,8.7,4,9,3,40
+Karan Chauhan,23MLAI18,ML-AI A,Psychology,11.0,87,87,88,6.0,0,5,6,66
+Vishal Sinha,23MLAI14,ML-AI A,Chemistry,3.1,99,41,66,5.2,7,8,9,63
+Isha Patel,23MLAI30,ML-AI A,Mathematics,9.9,52,88,81,7.1,10,9,7,45
+Omkar Singh,23MLAI25,ML-AI A,Mathematics,9.9,56,95,89,7.9,8,7,10,41
+Rohan Shah,23MLAI16,ML-AI A,Mathematics,8.9,62,60,99,8.0,2,1,8,65
+Divya Gupta,23MLAI22,ML-AI A,Physics,3.6,78,93,72,9.7,9,9,5,52
+Tanya Dave,23MLAI17,ML-AI A,Chemistry,2.1,90,67,89,4.7,5,3,7,54
+Tanya Dave,23MLAI17,ML-AI A,Geography,5.3,77,78,86,4.8,3,4,2,73
+Kavya Nair,23MLAI07,ML-AI A,Chemistry,1.7,96,76,70,6.6,10,2,7,43
+Megha Joshi,23MLAI09,ML-AI A,Chemistry,7.4,91,80,79,6.7,1,5,9,47
+Kavya Nair,23MLAI07,ML-AI A,Computer Science,11.6,50,59,89,4.9,5,2,9,85
+Karan Chauhan,23MLAI18,ML-AI A,Geography,2.5,57,43,96,4.3,1,8,10,100
+Pooja Sharma,23MLAI04,ML-AI A,Geography,8.1,71,72,78,9.9,0,3,2,98
+Aditi Chauhan,23MLAI13,ML-AI A,Computer Science,4.5,70,63,40,4.3,3,6,1,74
+Megha Joshi,23MLAI09,ML-AI A,Economics,5.6,73,85,41,4.8,8,10,9,94
+Jaya Chintamreddy,23MLAI05,ML-AI A,Physics,11.4,79,98,60,9.7,6,1,4,44
+Isha Patel,23MLAI30,ML-AI A,Economics,6.0,91,100,70,7.1,3,7,4,70
+Omkar Singh,23MLAI25,ML-AI A,Physics,4.7,83,62,69,9.7,8,6,4,57
+Ravi Mehta,23MLAI03,ML-AI A,English,9.6,83,55,99,5.8,4,4,8,96
+Yash Thakkar,23MLAI12,ML-AI A,History,3.1,53,88,85,8.8,0,4,5,64
+Aditi Chauhan,23MLAI13,ML-AI A,Chemistry,11.0,89,78,100,9.9,3,10,10,57
+Tanvi Mehra,23MLAI28,ML-AI A,English,4.9,63,85,84,5.3,8,8,6,54
+Aryan Patel,23MLAI01,ML-AI A,Chemistry,8.7,84,71,77,9.5,1,4,3,49
+Aditi Chauhan,23MLAI13,ML-AI A,Geography,4.1,79,88,85,7.1,8,8,4,49
+Arjun Rathi,23MLAI23,ML-AI A,Economics,3.9,68,89,52,8.2,5,3,8,66
+Karan Chauhan,23MLAI18,ML-AI A,Economics,6.7,62,89,75,8.8,10,2,6,49
+Isha Patel,23MLAI30,ML-AI A,Physics,7.7,93,51,93,8.3,1,6,2,75
+Kavya Nair,23MLAI07,ML-AI A,Computer Science,11.3,60,70,59,4.4,4,9,5,46
+Simran Kaur,23MLAI15,ML-AI A,Mathematics,10.4,72,54,45,9.0,2,3,6,62
+Yash Thakkar,23MLAI12,ML-AI A,Biology,8.0,88,58,86,4.7,6,2,5,48
+Rohan Shah,23MLAI16,ML-AI A,Computer Science,4.7,63,68,46,4.8,1,2,8,90
+Devansh Shah,23MLAI06,ML-AI A,English,8.7,92,84,83,8.2,4,7,5,100
+Disha Pandya,23MLAI26,ML-AI A,Computer Science,11.0,84,73,89,9.8,1,10,5,72
+Nirali Desai,23MLAI20,ML-AI A,Mathematics,3.4,81,56,45,5.7,2,5,6,87
+Isha Patel,23MLAI30,ML-AI A,Mathematics,8.4,66,86,88,7.8,0,6,3,48
+Devansh Shah,23MLAI06,ML-AI A,English,9.2,99,95,44,9.6,9,6,4,87
+Harshita Yadav,23MLAI11,ML-AI A,Mathematics,9.9,87,43,51,9.1,2,3,1,95
+Aditi Chauhan,23MLAI13,ML-AI A,Geography,3.0,57,95,53,4.8,1,8,5,73
+Sneha Desai,23MLAI02,ML-AI A,Psychology,6.1,50,98,46,9.1,7,8,9,45
+Tanya Dave,23MLAI17,ML-AI A,Economics,5.4,85,97,91,6.4,6,4,4,82
+Sanya Jain,23MLAI24,ML-AI A,History,2.4,63,72,93,6.8,7,1,10,53
+Tanya Dave,23MLAI17,ML-AI A,Physics,9.6,80,57,43,9.4,4,2,7,67
+Disha Pandya,23MLAI26,ML-AI A,Physics,7.6,94,73,82,4.3,4,3,10,84
+Karan Chauhan,23MLAI18,ML-AI A,English,1.5,50,44,84,10.0,6,9,6,78
+Vivek Iyer,23MLAI29,ML-AI A,Economics,10.7,55,53,83,9.3,8,2,7,64
+Aman Verma,23MLAI08,ML-AI A,Biology,2.5,85,91,46,4.4,9,5,7,78
+Aditi Chauhan,23MLAI13,ML-AI A,Physics,11.3,91,40,58,5.3,8,5,8,89
+Simran Kaur,23MLAI15,ML-AI A,English,5.0,59,74,52,4.5,9,4,6,47
+Arjun Rathi,23MLAI23,ML-AI A,Biology,11.3,74,92,74,4.8,8,4,7,62
+Vivek Iyer,23MLAI29,ML-AI A,Computer Science,8.7,57,94,48,4.2,6,2,9,62
+Kavya Nair,23MLAI07,ML-AI A,Mathematics,11.4,84,55,44,9.1,2,5,9,64
+Omkar Singh,23MLAI25,ML-AI A,English,4.8,99,88,72,5.2,2,7,10,95
+Aditi Chauhan,23MLAI13,ML-AI A,Computer Science,5.9,70,86,40,7.4,4,2,4,66
+Yash Thakkar,23MLAI12,ML-AI A,Computer Science,1.6,80,70,87,7.5,6,9,5,95
+Karan Chauhan,23MLAI18,ML-AI A,Chemistry,4.6,59,93,94,7.5,8,8,9,51
+Megha Joshi,23MLAI09,ML-AI A,Physics,2.1,67,96,73,4.9,0,2,6,62
+Rahul Kumar,23MLAI21,ML-AI A,Psychology,1.9,51,48,97,9.6,5,9,2,70
+Divya Gupta,23MLAI22,ML-AI A,Geography,8.0,93,77,93,5.2,3,4,5,72
+Yash Thakkar,23MLAI12,ML-AI A,Mathematics,1.7,94,50,81,4.7,7,2,2,77
+Sneha Desai,23MLAI02,ML-AI A,Chemistry,2.8,71,82,59,6.2,10,5,1,45
+Kavya Nair,23MLAI07,ML-AI A,Economics,2.0,100,70,94,5.7,0,6,6,77
+Rahul Kumar,23MLAI21,ML-AI A,Mathematics,1.9,58,49,55,8.9,0,1,9,93
+Raj Shah,23MLAI27,ML-AI A,Chemistry,9.2,61,84,91,5.7,6,1,6,57
+Raj Shah,23MLAI27,ML-AI A,Physics,5.7,60,80,70,7.2,9,7,5,50
+Aryan Patel,23MLAI01,ML-AI A,English,11.8,60,45,88,6.6,1,5,3,57
+Raj Shah,23MLAI27,ML-AI A,Economics,1.1,66,44,57,7.3,5,1,7,61
+Isha Patel,23MLAI30,ML-AI A,Economics,11.2,71,44,57,4.7,3,2,6,97
+Raj Shah,23MLAI27,ML-AI A,Psychology,5.5,92,87,80,6.7,3,6,6,100
+Sanya Jain,23MLAI24,ML-AI A,History,5.4,58,55,78,7.9,6,9,9,76
+Raj Shah,23MLAI27,ML-AI A,History,10.4,82,55,53,7.1,9,4,3,57
+Sanya Jain,23MLAI24,ML-AI A,English,6.5,54,88,43,6.7,5,2,9,60
+Tanya Dave,23MLAI17,ML-AI A,English,7.0,52,93,55,9.1,6,10,4,81
+Devansh Shah,23MLAI06,ML-AI A,History,6.5,92,78,52,4.7,9,9,10,46
+Omkar Singh,23MLAI25,ML-AI A,Mathematics,7.1,74,65,72,9.3,4,8,1,97
+Rahul Kumar,23MLAI21,ML-AI A,Computer Science,8.9,60,64,88,4.9,8,1,1,58
+Sanya Jain,23MLAI24,ML-AI A,History,5.5,88,45,97,5.9,8,5,6,97
+Rahul Kumar,23MLAI21,ML-AI A,History,2.0,85,60,51,8.1,1,2,7,92
+Vishal Sinha,23MLAI14,ML-AI A,Economics,3.7,83,68,88,5.5,0,5,2,89
+Yash Thakkar,23MLAI12,ML-AI A,Psychology,2.8,71,57,74,5.1,9,6,2,90
+Devansh Shah,23MLAI06,ML-AI A,Psychology,4.6,55,91,93,7.6,0,9,5,92
+Rahul Kumar,23MLAI21,ML-AI A,History,5.2,52,50,78,6.6,4,6,9,98
+Divya Gupta,23MLAI22,ML-AI A,Mathematics,5.6,86,85,61,9.1,0,4,4,62
+Vivek Iyer,23MLAI29,ML-AI A,Computer Science,2.9,86,70,80,6.0,6,8,9,87
+Ravi Mehta,23MLAI03,ML-AI A,Chemistry,1.7,75,87,64,9.2,5,4,4,99
+Tanvi Mehra,23MLAI28,ML-AI A,Geography,1.1,94,89,86,4.4,7,9,2,89
+Pooja Sharma,23MLAI04,ML-AI A,Biology,5.2,86,64,47,8.3,5,10,5,40
+Divya Gupta,23MLAI22,ML-AI A,Mathematics,8.8,81,67,41,6.7,4,4,4,63
+Sanya Jain,23MLAI24,ML-AI A,Biology,5.7,60,91,47,8.8,1,1,1,65
+Sanya Jain,23MLAI24,ML-AI A,Computer Science,4.3,70,57,56,4.4,2,10,9,54
+Sneha Desai,23MLAI02,ML-AI A,English,10.2,84,73,95,4.5,1,8,4,52
+Isha Patel,23MLAI30,ML-AI A,Psychology,8.2,70,79,85,4.4,6,4,5,60
+Preeti Patel,23MLAI19,ML-AI A,Geography,7.2,54,79,85,8.2,0,6,4,72
+Omkar Singh,23MLAI25,ML-AI A,Geography,8.3,55,64,43,8.7,4,3,1,54
+Pooja Sharma,23MLAI04,ML-AI A,History,1.8,100,62,47,8.6,6,7,9,66
+Aman Verma,23MLAI08,ML-AI A,Economics,9.6,51,66,59,9.9,10,3,5,92
+Simran Kaur,23MLAI15,ML-AI A,Computer Science,10.7,99,52,69,8.3,5,9,7,82
+Aryan Patel,23MLAI01,ML-AI A,Psychology,10.3,75,61,96,6.3,8,1,5,80
+Vivek Iyer,23MLAI29,ML-AI A,Psychology,11.4,95,82,96,9.0,8,10,5,52
+Aditi Chauhan,23MLAI13,ML-AI A,Computer Science,9.5,75,77,52,8.4,5,6,6,81
+Tanya Dave,23MLAI17,ML-AI A,Biology,6.3,60,62,59,9.3,6,3,5,73
+Aryan Patel,23MLAI01,ML-AI A,Biology,8.3,89,58,69,8.3,10,4,3,67
+Pooja Sharma,23MLAI04,ML-AI A,Geography,1.8,86,96,74,5.6,9,5,4,63
+Devansh Shah,23MLAI06,ML-AI A,History,1.5,83,46,80,7.3,7,6,2,69
+Nikhil Rana,23MLAI10,ML-AI A,Biology,4.8,62,77,48,9.9,5,1,1,62
+Kavya Nair,23MLAI07,ML-AI A,Physics,5.9,91,52,43,8.4,3,9,3,65
+Tanvi Mehra,23MLAI28,ML-AI A,History,7.5,89,60,67,5.5,3,4,1,71
+Pooja Sharma,23MLAI04,ML-AI A,Physics,11.0,73,82,98,7.2,5,1,8,48
+Vishal Sinha,23MLAI14,ML-AI A,Physics,11.0,76,68,61,9.6,8,7,2,42
+Karan Chauhan,23MLAI18,ML-AI A,Physics,8.1,69,85,57,6.6,0,10,2,99
+Aman Verma,23MLAI08,ML-AI A,Economics,4.8,78,63,100,9.5,0,5,4,92
+Aditi Chauhan,23MLAI13,ML-AI A,History,6.2,74,51,71,7.0,10,9,1,54
+Pooja Sharma,23MLAI04,ML-AI A,English,10.8,77,83,61,8.7,9,7,8,88
+Megha Joshi,23MLAI09,ML-AI A,Psychology,4.3,90,87,74,9.7,4,4,9,96
+Rohan Shah,23MLAI16,ML-AI A,Economics,9.3,97,86,79,4.6,6,8,3,47
+Aryan Patel,23MLAI01,ML-AI A,Psychology,2.8,62,48,100,9.4,6,4,3,78
+Pooja Sharma,23MLAI04,ML-AI A,Biology,7.4,68,77,74,4.7,5,9,3,42
+Nikhil Rana,23MLAI10,ML-AI A,English,4.3,66,92,86,5.6,7,3,5,74
+Harshita Yadav,23MLAI11,ML-AI A,English,8.8,81,47,62,9.0,0,4,9,41
+Nirali Desai,23MLAI20,ML-AI A,Physics,6.1,65,60,66,8.4,5,6,1,59
+Arjun Rathi,23MLAI23,ML-AI A,Chemistry,7.8,98,82,78,9.9,5,4,8,61
+Vivek Iyer,23MLAI29,ML-AI A,Psychology,8.3,88,94,61,8.8,0,4,9,72
+Megha Joshi,23MLAI09,ML-AI A,Chemistry,11.1,92,44,64,4.2,8,3,4,74
+Tanya Dave,23MLAI17,ML-AI A,English,5.5,61,40,86,6.1,3,1,5,81
+Jaya Chintamreddy,23MLAI05,ML-AI A,Biology,10.2,93,96,62,4.6,9,7,1,40
+Rahul Kumar,23MLAI21,ML-AI A,English,3.7,79,74,79,9.4,1,6,3,79
+Nikhil Rana,23MLAI10,ML-AI A,Economics,6.2,54,55,68,8.6,9,3,4,99
+Kavya Nair,23MLAI07,ML-AI A,Psychology,8.3,86,45,59,9.9,5,3,7,67
+Sanya Jain,23MLAI24,ML-AI A,History,9.7,79,90,97,4.7,1,2,3,97
+Harshita Yadav,23MLAI11,ML-AI A,Biology,4.2,97,57,71,4.5,1,4,3,62
+Rahul Kumar,23MLAI21,ML-AI A,Biology,4.8,87,50,92,6.2,6,5,5,69
+Kavya Nair,23MLAI07,ML-AI A,History,6.1,94,81,48,8.5,6,9,3,57
+Aryan Patel,23MLAI01,ML-AI A,Physics,11.2,92,64,85,9.9,3,1,6,100
+Harshita Yadav,23MLAI11,ML-AI A,Geography,6.4,94,93,55,4.1,9,7,8,50
+Preeti Patel,23MLAI19,ML-AI A,Geography,9.3,57,45,100,9.7,4,5,2,94
+Vishal Sinha,23MLAI14,ML-AI A,Mathematics,1.4,99,87,89,6.7,2,3,10,77
+Isha Patel,23MLAI30,ML-AI A,Mathematics,10.7,63,65,67,8.7,1,8,1,63
+Isha Patel,23MLAI30,ML-AI A,Economics,8.9,88,61,80,6.0,5,6,10,60
+Megha Joshi,23MLAI09,ML-AI A,Economics,10.9,61,62,76,7.7,10,5,4,52
+Devansh Shah,23MLAI06,ML-AI A,Psychology,9.5,57,62,89,9.9,9,8,10,86
+Harshita Yadav,23MLAI11,ML-AI A,Chemistry,11.1,52,68,96,8.9,4,6,9,46
+Divya Gupta,23MLAI22,ML-AI A,History,5.6,80,93,97,4.6,5,7,9,61
+Rohan Shah,23MLAI16,ML-AI A,Physics,5.4,91,88,82,7.3,7,2,3,62
+Preeti Patel,23MLAI19,ML-AI A,Physics,9.1,82,63,79,4.9,7,5,6,97
+Sneha Desai,23MLAI02,ML-AI A,Psychology,10.1,89,55,46,4.8,7,1,8,55
+Aman Verma,23MLAI08,ML-AI A,Chemistry,3.4,99,78,73,7.2,3,9,2,50
+Nikhil Rana,23MLAI10,ML-AI A,Chemistry,10.9,65,62,88,9.1,6,10,3,40
+Simran Kaur,23MLAI15,ML-AI A,Geography,1.4,94,44,80,9.9,8,10,8,97
+Devansh Shah,23MLAI06,ML-AI A,Computer Science,8.8,78,60,72,4.4,4,1,5,84
+Divya Gupta,23MLAI22,ML-AI A,Mathematics,11.2,79,82,83,4.2,2,8,6,54
+Tanya Dave,23MLAI17,ML-AI A,English,11.5,80,78,83,9.7,7,3,7,77
+Sneha Desai,23MLAI02,ML-AI A,Economics,12.0,71,58,53,6.6,2,8,4,64
+Vivek Iyer,23MLAI29,ML-AI A,Computer Science,10.7,91,45,95,5.8,6,9,6,89
+Arjun Rathi,23MLAI23,ML-AI A,Physics,6.0,81,95,97,8.2,0,5,4,73
+Nikhil Rana,23MLAI10,ML-AI A,History,8.0,80,54,64,6.4,4,7,5,41
+Jaya Chintamreddy,23MLAI05,ML-AI A,Geography,3.5,88,63,80,5.1,6,5,10,86
+Vivek Iyer,23MLAI29,ML-AI A,Biology,7.6,97,75,61,5.2,9,7,1,74
+Simran Kaur,23MLAI15,ML-AI A,Biology,11.2,60,50,69,4.6,5,2,3,71
+Isha Patel,23MLAI30,ML-AI A,English,5.4,57,86,80,6.8,0,8,6,40
+Aryan Patel,23MLAI01,ML-AI A,Computer Science,7.2,53,47,74,5.6,2,2,9,85
+Arjun Rathi,23MLAI23,ML-AI A,Chemistry,8.2,95,72,85,5.8,9,9,6,86
+Raj Shah,23MLAI27,ML-AI A,Geography,2.0,81,44,50,7.9,5,7,6,75
+Aryan Patel,23MLAI01,ML-AI A,Mathematics,1.1,61,43,52,6.6,3,7,8,98
+Jaya Chintamreddy,23MLAI05,ML-AI A,Geography,6.8,59,95,46,6.7,5,9,6,78
+Rahul Kumar,23MLAI21,ML-AI A,Physics,9.9,56,97,66,5.6,3,10,9,56
+Devansh Shah,23MLAI06,ML-AI A,Economics,3.2,66,67,60,7.9,7,6,7,87
+Ravi Mehta,23MLAI03,ML-AI A,Computer Science,5.2,100,98,83,6.5,8,3,6,51
+Vishal Sinha,23MLAI14,ML-AI A,History,3.4,93,94,96,5.0,0,2,2,82
+Vivek Iyer,23MLAI29,ML-AI A,Physics,11.4,71,76,47,8.1,1,7,9,85
+Jaya Chintamreddy,23MLAI05,ML-AI A,Mathematics,8.0,80,41,45,5.0,5,7,3,55
+Aman Verma,23MLAI08,ML-AI A,History,1.8,98,50,92,8.5,4,4,7,94
+Divya Gupta,23MLAI22,ML-AI A,Mathematics,10.7,63,73,87,6.6,6,4,4,82
+Yash Thakkar,23MLAI12,ML-AI A,Computer Science,3.9,71,80,91,6.4,6,4,9,89
+Arjun Rathi,23MLAI23,ML-AI A,Chemistry,3.4,59,94,86,8.2,6,8,2,53
+Sanya Jain,23MLAI24,ML-AI A,Biology,10.0,79,54,42,8.6,7,10,10,55
+Sanya Jain,23MLAI24,ML-AI A,History,3.8,56,84,88,9.4,7,5,7,91
+Kavya Nair,23MLAI07,ML-AI A,Psychology,3.2,65,77,81,7.6,3,9,2,40
+Rahul Kumar,23MLAI21,ML-AI A,Chemistry,11.4,60,51,100,9.3,8,6,4,85
+Omkar Singh,23MLAI25,ML-AI A,Physics,7.6,73,93,65,5.6,9,6,5,98
+Preeti Patel,23MLAI19,ML-AI A,English,3.5,70,99,60,4.9,9,3,7,81
+Sneha Desai,23MLAI02,ML-AI A,Computer Science,3.6,63,61,63,5.7,6,1,4,97
+Arjun Rathi,23MLAI23,ML-AI A,Economics,3.2,95,56,78,7.7,6,4,10,59
+Isha Patel,23MLAI30,ML-AI A,Geography,7.1,94,86,40,7.2,1,2,9,90
+Rahul Kumar,23MLAI21,ML-AI A,Economics,7.1,62,95,92,9.9,9,10,3,85
+Yash Thakkar,23MLAI12,ML-AI A,Physics,9.2,68,67,83,6.2,10,1,3,98
+Disha Pandya,23MLAI26,ML-AI A,Computer Science,6.7,71,41,83,7.4,7,2,9,56
+Vivek Iyer,23MLAI29,ML-AI A,Biology,4.2,88,59,61,6.9,8,8,5,58
+Divya Gupta,23MLAI22,ML-AI A,Geography,2.6,77,65,84,9.7,6,8,7,98
+Raj Shah,23MLAI27,ML-AI A,Psychology,7.8,77,53,53,7.1,0,2,1,87
+Ravi Mehta,23MLAI03,ML-AI A,Economics,9.3,68,44,79,5.2,0,7,10,99
+Sanya Jain,23MLAI24,ML-AI A,English,1.3,76,96,88,9.4,4,10,4,56
+Aditi Chauhan,23MLAI13,ML-AI A,Geography,5.8,99,81,45,5.7,6,2,10,70
+Aryan Patel,23MLAI01,ML-AI A,Psychology,11.9,67,74,91,5.3,4,9,5,70
+Karan Chauhan,23MLAI18,ML-AI A,Mathematics,1.8,89,66,73,9.6,0,3,9,69
+Kavya Nair,23MLAI07,ML-AI A,English,8.1,66,55,76,8.5,0,9,2,57
+Karan Chauhan,23MLAI18,ML-AI A,English,11.2,90,76,67,6.3,8,10,1,94
+Jaya Chintamreddy,23MLAI05,ML-AI A,Mathematics,4.7,56,75,72,4.0,5,8,7,58
+Tanya Dave,23MLAI17,ML-AI A,Mathematics,2.3,88,56,83,10.0,2,5,5,61
+Raj Shah,23MLAI27,ML-AI A,Biology,3.3,92,83,92,5.3,5,3,8,40
+Omkar Singh,23MLAI25,ML-AI A,Psychology,4.8,62,100,62,7.8,6,1,6,44
+Omkar Singh,23MLAI25,ML-AI A,Geography,6.6,96,40,44,10.0,10,6,10,98
+Aryan Patel,23MLAI01,ML-AI A,Psychology,8.0,68,91,73,6.2,2,4,7,69
+Raj Shah,23MLAI27,ML-AI A,Computer Science,7.8,58,52,85,6.9,0,5,1,96
+Tanya Dave,23MLAI17,ML-AI A,Physics,1.7,79,46,59,4.6,1,5,4,49
+Disha Pandya,23MLAI26,ML-AI A,Geography,3.6,73,76,99,8.4,1,5,8,95
+Aryan Patel,23MLAI01,ML-AI A,Computer Science,6.4,72,86,92,4.5,4,4,4,64
+Preeti Patel,23MLAI19,ML-AI A,Mathematics,3.5,60,74,40,7.5,7,6,8,78
+Vivek Iyer,23MLAI29,ML-AI A,Chemistry,6.8,59,50,71,9.5,2,3,1,43
+Sneha Desai,23MLAI02,ML-AI A,Biology,5.7,85,79,58,6.4,2,2,3,78
+Rohan Shah,23MLAI16,ML-AI A,Chemistry,7.2,85,42,97,8.1,0,10,8,82
+Megha Joshi,23MLAI09,ML-AI A,English,7.7,92,61,41,9.3,8,9,10,52
+Arjun Rathi,23MLAI23,ML-AI A,Chemistry,9.6,98,94,88,8.9,7,10,5,51
+Rohan Shah,23MLAI16,ML-AI A,Physics,4.9,51,76,79,7.3,5,7,8,64
+Sneha Desai,23MLAI02,ML-AI A,Physics,8.0,79,43,57,9.9,9,10,3,87
+Jaya Chintamreddy,23MLAI05,ML-AI A,Biology,1.4,99,68,69,4.3,6,1,10,91
+Disha Pandya,23MLAI26,ML-AI A,Psychology,1.7,63,74,59,8.2,0,2,10,72
+Harshita Yadav,23MLAI11,ML-AI A,Chemistry,1.6,83,80,97,6.0,0,3,5,42
+Aryan Patel,23MLAI01,ML-AI A,Physics,4.6,84,52,72,8.5,2,2,3,90
+Disha Pandya,23MLAI26,ML-AI A,Mathematics,1.6,67,59,40,6.6,8,3,10,63
+Aman Verma,23MLAI08,ML-AI A,Chemistry,6.8,81,85,78,8.8,0,3,2,62
+Kavya Nair,23MLAI07,ML-AI A,Physics,2.6,74,87,52,6.8,10,4,9,100
+Nirali Desai,23MLAI20,ML-AI A,Biology,11.6,93,84,91,6.6,3,5,3,96
+Aryan Patel,23MLAI01,ML-AI A,History,3.1,52,50,81,9.7,1,10,1,71
+Divya Gupta,23MLAI22,ML-AI A,Geography,1.5,68,50,80,9.0,5,7,5,82
+Omkar Singh,23MLAI25,ML-AI A,Biology,9.7,88,82,72,6.4,0,5,5,79
+Aman Verma,23MLAI08,ML-AI A,Economics,6.5,96,53,91,7.6,4,1,10,81
+Simran Kaur,23MLAI15,ML-AI A,Psychology,11.0,90,46,58,5.2,2,8,4,100
+Sanya Jain,23MLAI24,ML-AI A,Economics,8.4,61,70,59,6.6,6,6,6,50
+Tanvi Mehra,23MLAI28,ML-AI A,Biology,5.1,87,86,50,7.7,1,10,4,95
+Preeti Patel,23MLAI19,ML-AI A,History,6.2,98,96,75,7.8,2,7,5,66
+Tanvi Mehra,23MLAI28,ML-AI A,Mathematics,8.3,62,84,97,5.3,0,2,7,55
+Aman Verma,23MLAI08,ML-AI A,Biology,11.3,61,97,55,9.2,5,8,2,84
+Pooja Sharma,23MLAI04,ML-AI A,Chemistry,5.1,98,88,77,6.6,5,7,5,72
+Jaya Chintamreddy,23MLAI05,ML-AI A,Psychology,5.7,84,57,53,5.2,1,10,3,98
+Raj Shah,23MLAI27,ML-AI A,Psychology,11.7,81,64,47,7.9,2,1,10,66
+Tanvi Mehra,23MLAI28,ML-AI A,English,4.1,98,89,43,5.8,1,1,8,88
+Divya Gupta,23MLAI22,ML-AI A,Physics,2.3,77,83,82,8.6,9,1,6,94
+Harshita Yadav,23MLAI11,ML-AI A,Geography,11.7,87,64,53,8.4,8,7,5,88
+Rohan Shah,23MLAI16,ML-AI A,Computer Science,1.3,64,71,45,4.7,0,4,6,81
+Jaya Chintamreddy,23MLAI05,ML-AI A,Mathematics,1.9,54,87,46,5.9,3,1,4,79
+Raj Shah,23MLAI27,ML-AI A,History,8.1,92,64,53,8.6,1,1,1,86
+Raj Shah,23MLAI27,ML-AI A,Chemistry,11.3,88,57,52,4.9,6,7,1,52
+Sanya Jain,23MLAI24,ML-AI A,Mathematics,6.8,58,49,54,9.8,8,4,8,67
+Rahul Kumar,23MLAI21,ML-AI A,Biology,3.8,76,73,61,4.7,6,8,1,82
+Arjun Rathi,23MLAI23,ML-AI A,Psychology,5.9,55,90,96,9.0,3,6,10,97
+Divya Gupta,23MLAI22,ML-AI A,Geography,6.5,65,96,41,9.4,7,4,9,48
+Kavya Nair,23MLAI07,ML-AI A,Psychology,1.0,62,89,83,6.6,10,7,7,84
+Pooja Sharma,23MLAI04,ML-AI A,English,8.0,60,72,95,9.8,8,10,2,77
+Preeti Patel,23MLAI19,ML-AI A,English,2.5,77,93,64,4.2,0,7,2,58
+Sneha Desai,23MLAI02,ML-AI A,Chemistry,2.2,72,64,91,5.6,5,9,7,90
+Aditi Chauhan,23MLAI13,ML-AI A,Computer Science,6.9,69,51,95,4.4,7,4,1,48
+Sneha Desai,23MLAI02,ML-AI A,Computer Science,10.4,71,69,66,4.1,9,7,3,79
+Aditi Chauhan,23MLAI13,ML-AI A,English,4.4,99,65,57,8.0,9,4,5,62
+Arjun Rathi,23MLAI23,ML-AI A,Economics,11.9,61,86,77,8.8,2,6,2,49
+Tanvi Mehra,23MLAI28,ML-AI A,Chemistry,3.4,84,69,40,8.0,2,5,9,81
+Simran Kaur,23MLAI15,ML-AI A,Biology,5.0,84,49,89,4.6,4,10,1,87
+Simran Kaur,23MLAI15,ML-AI A,Computer Science,3.6,69,65,67,5.7,5,10,1,90
+Vivek Iyer,23MLAI29,ML-AI A,Mathematics,8.7,72,72,90,9.9,7,4,10,40
+Sanya Jain,23MLAI24,ML-AI A,Physics,7.9,58,55,84,6.3,7,10,3,40
+Raj Shah,23MLAI27,ML-AI A,Chemistry,7.0,90,72,98,6.9,2,4,2,71
+Preeti Patel,23MLAI19,ML-AI A,Chemistry,9.3,91,62,70,6.9,5,2,9,41
+Pooja Sharma,23MLAI04,ML-AI A,Economics,6.7,56,86,67,5.2,3,8,3,67
+Aditi Chauhan,23MLAI13,ML-AI A,Mathematics,1.2,85,54,51,4.2,4,3,4,99
+Rohan Shah,23MLAI16,ML-AI A,English,10.4,100,71,97,8.5,4,4,10,52
+Raj Shah,23MLAI27,ML-AI A,Mathematics,11.8,100,69,94,9.7,6,1,9,40
+Aditi Chauhan,23MLAI13,ML-AI A,Economics,9.1,61,79,73,8.1,2,4,2,70
+Raj Shah,23MLAI27,ML-AI A,English,8.9,54,72,95,9.0,5,4,1,46
+Aditi Chauhan,23MLAI13,ML-AI A,Biology,5.7,91,92,84,7.3,6,6,6,48
+Jaya Chintamreddy,23MLAI05,ML-AI A,History,2.4,78,69,44,9.6,8,1,3,45
+Sneha Desai,23MLAI02,ML-AI A,History,9.1,51,49,72,4.3,4,4,4,78
+Aryan Patel,23MLAI01,ML-AI A,Mathematics,8.8,85,46,61,5.5,1,10,3,92
+Omkar Singh,23MLAI25,ML-AI A,Computer Science,2.2,87,42,52,5.4,6,4,2,82
+Jaya Chintamreddy,23MLAI05,ML-AI A,Chemistry,11.1,94,49,73,5.4,7,6,8,79
+Pooja Sharma,23MLAI04,ML-AI A,English,5.3,94,57,66,6.1,10,9,3,77
+Vishal Sinha,23MLAI14,ML-AI A,Economics,5.1,52,97,94,7.8,1,1,5,51
+Omkar Singh,23MLAI25,ML-AI A,Chemistry,6.4,53,81,84,4.3,1,3,8,59
+Vivek Iyer,23MLAI29,ML-AI A,Geography,3.7,97,92,68,8.4,1,5,2,71
+Sneha Desai,23MLAI02,ML-AI A,History,9.2,94,79,77,6.5,0,8,5,75
+Rahul Kumar,23MLAI21,ML-AI A,Psychology,9.6,85,53,49,6.0,5,4,3,100
+Omkar Singh,23MLAI25,ML-AI A,Biology,10.6,60,40,77,6.4,7,9,2,65
+Kavya Nair,23MLAI07,ML-AI A,Economics,4.0,94,52,93,10.0,9,6,8,81
+Tanya Dave,23MLAI17,ML-AI A,Biology,4.2,68,53,69,7.8,4,1,10,79
+Nikhil Rana,23MLAI10,ML-AI A,Geography,11.1,100,79,84,4.1,8,2,1,77
+Vivek Iyer,23MLAI29,ML-AI A,History,1.8,64,54,57,5.2,6,9,6,68
+Ravi Mehta,23MLAI03,ML-AI A,English,8.5,69,65,79,7.6,8,9,8,80
+Aryan Patel,23MLAI01,ML-AI A,Psychology,1.4,98,80,67,6.2,0,7,8,70
+Raj Shah,23MLAI27,ML-AI A,Psychology,2.8,96,76,86,7.3,10,6,6,94
+Raj Shah,23MLAI27,ML-AI A,Psychology,11.7,100,42,46,6.5,4,4,10,77
+Nirali Desai,23MLAI20,ML-AI A,Chemistry,2.5,91,83,84,9.1,3,8,9,65
+Aditi Chauhan,23MLAI13,ML-AI A,Computer Science,1.6,54,64,74,5.4,9,7,3,92
+Jaya Chintamreddy,23MLAI05,ML-AI A,Psychology,10.7,80,87,89,4.7,3,4,1,67
+Vivek Iyer,23MLAI29,ML-AI A,English,5.9,95,97,56,6.8,3,4,7,95
+Nikhil Rana,23MLAI10,ML-AI A,Geography,7.5,77,81,42,7.0,3,8,6,85
+Vishal Sinha,23MLAI14,ML-AI A,Economics,1.3,54,67,63,4.4,7,6,4,49
+Rohan Shah,23MLAI16,ML-AI A,Psychology,5.9,85,42,97,8.3,8,5,2,40
+Nirali Desai,23MLAI20,ML-AI A,Chemistry,9.6,82,53,85,8.5,4,9,9,92
+Yash Thakkar,23MLAI12,ML-AI A,English,2.9,98,82,66,5.4,9,10,8,43
+Aman Verma,23MLAI08,ML-AI A,Mathematics,1.3,60,85,59,9.1,4,2,10,100
+Preeti Patel,23MLAI19,ML-AI A,Biology,3.0,61,50,41,8.5,9,8,2,68
+Megha Joshi,23MLAI09,ML-AI A,Computer Science,6.9,56,45,50,4.2,0,2,5,43
+Harshita Yadav,23MLAI11,ML-AI A,Geography,1.7,92,79,73,6.2,0,7,1,49
+Ravi Mehta,23MLAI03,ML-AI A,English,1.1,55,73,72,6.0,2,7,9,98
+Tanya Dave,23MLAI17,ML-AI A,Biology,3.0,100,96,95,9.5,5,1,10,87
+Tanvi Mehra,23MLAI28,ML-AI A,Physics,8.2,73,40,88,5.3,2,5,2,77
+Sneha Desai,23MLAI02,ML-AI A,Computer Science,11.5,91,77,78,5.1,0,10,8,66
+Vishal Sinha,23MLAI14,ML-AI A,Economics,6.3,51,82,84,8.5,4,6,6,65
+Aman Verma,23MLAI08,ML-AI A,Computer Science,8.8,94,68,53,7.3,8,8,2,42
+Harshita Yadav,23MLAI11,ML-AI A,Geography,10.6,80,72,66,6.1,5,3,4,50
+Omkar Singh,23MLAI25,ML-AI A,Physics,11.9,53,55,62,7.8,8,2,4,75
+Ravi Mehta,23MLAI03,ML-AI A,Biology,5.2,54,88,93,7.4,9,10,9,53
+Rohan Shah,23MLAI16,ML-AI A,Biology,4.9,74,61,76,7.7,6,7,4,85
+Aman Verma,23MLAI08,ML-AI A,Biology,11.4,85,53,91,9.9,9,1,3,45
+Aditi Chauhan,23MLAI13,ML-AI A,English,11.3,74,94,96,7.5,4,7,7,65
+Disha Pandya,23MLAI26,ML-AI A,History,3.5,88,78,86,6.6,7,2,9,94
+Vivek Iyer,23MLAI29,ML-AI A,Computer Science,6.1,71,45,66,7.1,9,3,6,80
+Preeti Patel,23MLAI19,ML-AI A,Chemistry,10.2,82,91,48,8.0,1,8,1,42
+Rahul Kumar,23MLAI21,ML-AI A,Chemistry,7.7,89,58,56,9.1,4,1,10,63
+Nirali Desai,23MLAI20,ML-AI A,History,11.8,52,70,81,4.8,10,2,2,58
+Preeti Patel,23MLAI19,ML-AI A,Computer Science,8.0,94,76,63,4.6,10,5,2,40
+Divya Gupta,23MLAI22,ML-AI A,Physics,8.9,59,53,46,9.4,9,4,2,54
+Vivek Iyer,23MLAI29,ML-AI A,Psychology,2.5,54,68,45,8.2,6,6,7,46
+Isha Patel,23MLAI30,ML-AI A,Physics,4.6,76,82,93,9.4,7,1,1,54
+Devansh Shah,23MLAI06,ML-AI A,Geography,6.6,72,46,83,4.6,6,9,10,69
+Sneha Desai,23MLAI02,ML-AI A,Chemistry,5.3,60,84,94,7.6,3,6,5,49
+Aman Verma,23MLAI08,ML-AI A,Biology,9.6,80,83,92,4.3,7,7,8,43
+Arjun Rathi,23MLAI23,ML-AI A,Biology,11.3,83,59,71,8.7,1,4,9,44
+Arjun Rathi,23MLAI23,ML-AI A,English,3.8,53,84,75,7.1,9,3,10,62
+Tanvi Mehra,23MLAI28,ML-AI A,Mathematics,3.7,53,73,86,8.6,9,1,2,63
+Arjun Rathi,23MLAI23,ML-AI A,Computer Science,6.5,77,59,77,4.4,7,7,9,44
+Ravi Mehta,23MLAI03,ML-AI A,History,3.5,56,83,67,7.4,8,4,6,90
+Pooja Sharma,23MLAI04,ML-AI A,Chemistry,10.5,71,72,93,7.1,7,7,2,48
+Sneha Desai,23MLAI02,ML-AI A,Psychology,5.5,75,95,79,8.0,0,5,1,68
+Sneha Desai,23MLAI02,ML-AI A,Economics,2.0,62,40,60,10.0,6,10,1,82
+Aryan Patel,23MLAI01,ML-AI A,Psychology,7.4,66,98,55,9.8,9,3,2,53
+Simran Kaur,23MLAI15,ML-AI A,Economics,9.1,83,77,98,5.9,3,6,6,98
+Aman Verma,23MLAI08,ML-AI A,Biology,8.4,82,50,97,6.6,1,8,9,74
+Ravi Mehta,23MLAI03,ML-AI A,Chemistry,4.5,92,53,44,6.2,1,10,6,79
+Disha Pandya,23MLAI26,ML-AI A,History,5.7,97,46,55,5.8,10,1,9,46
+Divya Gupta,23MLAI22,ML-AI A,Psychology,1.1,80,70,54,4.1,3,9,8,84
+Harshita Yadav,23MLAI11,ML-AI A,Computer Science,1.7,69,51,73,4.1,9,1,2,62
+Vivek Iyer,23MLAI29,ML-AI A,Economics,10.9,67,73,96,7.2,8,3,9,79
+Raj Shah,23MLAI27,ML-AI A,Computer Science,7.2,99,76,58,8.3,9,5,2,81
+Ravi Mehta,23MLAI03,ML-AI A,Mathematics,1.8,65,66,87,9.0,6,9,10,46
+Tanvi Mehra,23MLAI28,ML-AI A,Chemistry,2.3,59,67,59,6.9,1,10,3,44
+Simran Kaur,23MLAI15,ML-AI A,English,3.5,99,89,94,4.9,3,7,7,82
+Preeti Patel,23MLAI19,ML-AI A,Psychology,12.0,92,43,98,4.7,4,4,9,88
+Rohan Shah,23MLAI16,ML-AI A,Mathematics,10.4,77,92,99,9.9,5,4,8,68
+Raj Shah,23MLAI27,ML-AI A,Psychology,5.8,59,84,52,5.4,0,9,6,74
+Divya Gupta,23MLAI22,ML-AI A,English,6.2,77,54,54,5.7,10,9,2,42
+Kavya Nair,23MLAI07,ML-AI A,History,5.7,62,96,95,5.7,2,7,8,82
+Omkar Singh,23MLAI25,ML-AI A,Geography,4.8,65,98,96,6.7,6,4,4,90
+Harshita Yadav,23MLAI11,ML-AI A,Psychology,8.0,69,98,56,5.2,3,9,1,86
+Preeti Patel,23MLAI19,ML-AI A,Biology,1.6,82,42,64,9.6,1,3,2,76
+Preeti Patel,23MLAI19,ML-AI A,Economics,5.6,98,74,53,9.3,2,2,4,79
+Pooja Sharma,23MLAI04,ML-AI A,Physics,4.2,83,49,93,9.0,7,6,8,42
+Divya Gupta,23MLAI22,ML-AI A,Mathematics,5.0,96,82,86,7.1,3,7,5,60
+Ravi Mehta,23MLAI03,ML-AI A,Mathematics,8.9,79,94,65,4.5,2,6,1,51
+Arjun Rathi,23MLAI23,ML-AI A,English,7.2,94,78,74,7.4,9,9,6,49
+Sneha Desai,23MLAI02,ML-AI A,Chemistry,11.7,86,65,99,9.1,3,7,3,100
+Isha Patel,23MLAI30,ML-AI A,Geography,4.9,56,80,85,7.3,9,10,9,42
+Aditi Chauhan,23MLAI13,ML-AI A,Economics,1.2,68,84,40,5.4,6,10,1,74
+Rohan Shah,23MLAI16,ML-AI A,Geography,4.8,54,79,83,7.2,10,8,3,88
+Raj Shah,23MLAI27,ML-AI A,Chemistry,8.1,87,92,48,4.4,1,10,5,97
+Sanya Jain,23MLAI24,ML-AI A,Mathematics,2.6,67,93,71,8.4,2,2,3,87
+Isha Patel,23MLAI30,ML-AI A,Physics,5.6,50,59,81,6.4,6,10,7,49
+Tanvi Mehra,23MLAI28,ML-AI A,Chemistry,3.8,56,47,69,7.1,8,4,1,50
+Aditi Chauhan,23MLAI13,ML-AI A,Chemistry,4.2,63,49,67,5.9,1,5,1,59
+Tanvi Mehra,23MLAI28,ML-AI A,Biology,8.0,50,76,84,6.0,8,4,7,45
+Vishal Sinha,23MLAI14,ML-AI A,Physics,1.8,75,96,78,9.5,0,5,10,67
+Raj Shah,23MLAI27,ML-AI A,Physics,5.5,58,83,40,7.5,4,6,7,86
+Nirali Desai,23MLAI20,ML-AI A,Chemistry,8.1,91,84,77,9.8,8,1,3,84
+Aditi Chauhan,23MLAI13,ML-AI A,Physics,4.3,99,84,50,8.8,0,8,8,96
+Jaya Chintamreddy,23MLAI05,ML-AI A,Computer Science,4.5,72,72,53,8.7,6,5,6,74
+Nikhil Rana,23MLAI10,ML-AI A,Physics,2.7,83,93,52,6.5,9,9,3,74
+Omkar Singh,23MLAI25,ML-AI A,Physics,3.8,55,64,72,9.2,5,2,6,80
+Preeti Patel,23MLAI19,ML-AI A,Psychology,4.9,87,74,89,4.0,3,4,2,58
+Pooja Sharma,23MLAI04,ML-AI A,History,7.6,71,77,97,7.6,2,8,3,95
+Nirali Desai,23MLAI20,ML-AI A,Physics,4.6,51,84,87,9.7,2,10,10,40
+Megha Joshi,23MLAI09,ML-AI A,Mathematics,2.8,96,73,99,8.3,7,3,7,80
+Tanya Dave,23MLAI17,ML-AI A,Mathematics,10.9,76,64,92,7.7,4,8,5,70
+Harshita Yadav,23MLAI11,ML-AI A,English,10.3,89,84,68,6.3,6,5,4,79
+Arjun Rathi,23MLAI23,ML-AI A,Chemistry,6.6,98,63,68,8.5,6,6,9,65
+Nikhil Rana,23MLAI10,ML-AI A,Computer Science,2.2,100,69,81,8.0,4,8,8,58
+Ravi Mehta,23MLAI03,ML-AI A,Biology,1.6,68,94,55,5.6,4,8,5,99
+Preeti Patel,23MLAI19,ML-AI A,Geography,2.4,73,48,45,7.2,0,2,10,56
+Ravi Mehta,23MLAI03,ML-AI A,History,6.9,70,86,47,7.8,10,3,10,45
+Raj Shah,23MLAI27,ML-AI A,Economics,7.3,79,50,73,4.7,7,4,9,67
+Arjun Rathi,23MLAI23,ML-AI A,Psychology,6.0,58,78,99,9.6,7,1,8,47
+Isha Patel,23MLAI30,ML-AI A,Biology,6.8,59,86,73,4.8,2,10,9,92
+Vishal Sinha,23MLAI14,ML-AI A,Physics,6.0,87,82,51,6.0,7,4,2,91
+Pooja Sharma,23MLAI04,ML-AI A,Economics,1.8,81,95,62,4.5,7,9,8,44
+Raj Shah,23MLAI27,ML-AI A,Computer Science,5.6,63,80,76,6.3,3,8,5,64
+Aman Verma,23MLAI08,ML-AI A,English,6.3,70,75,58,7.5,3,10,5,69
+Disha Pandya,23MLAI26,ML-AI A,Chemistry,11.1,93,64,67,8.0,5,1,3,81
+Simran Kaur,23MLAI15,ML-AI A,English,7.7,82,81,56,4.2,8,5,1,92
+Vivek Iyer,23MLAI29,ML-AI A,Physics,9.3,100,43,84,6.1,7,4,1,87
+Aman Verma,23MLAI08,ML-AI A,Economics,10.9,67,91,73,7.2,3,6,7,97
+Raj Shah,23MLAI27,ML-AI A,Biology,10.6,98,59,81,4.4,2,6,3,45
+Jaya Chintamreddy,23MLAI05,ML-AI A,Physics,7.6,83,60,42,8.8,3,4,2,81
+Rohan Shah,23MLAI16,ML-AI A,Economics,5.3,70,88,86,9.1,7,4,9,42
+Vishal Sinha,23MLAI14,ML-AI A,Economics,11.3,92,89,56,8.3,0,5,3,97
+Sanya Jain,23MLAI24,ML-AI A,Mathematics,1.7,82,89,58,4.4,2,9,2,76
+Vishal Sinha,23MLAI14,ML-AI A,Psychology,2.0,89,64,75,5.1,3,1,2,97
+Simran Kaur,23MLAI15,ML-AI A,History,11.4,76,78,60,7.8,8,7,1,75
+Megha Joshi,23MLAI09,ML-AI A,Chemistry,8.8,96,88,93,8.5,9,7,1,59
+Rohan Shah,23MLAI16,ML-AI A,Geography,10.8,63,98,43,5.4,4,3,10,48
+Rohan Shah,23MLAI16,ML-AI A,Economics,6.6,72,87,96,6.5,3,2,8,63
+Aman Verma,23MLAI08,ML-AI A,Physics,8.0,89,45,95,4.7,5,2,10,49
+Vishal Sinha,23MLAI14,ML-AI A,Economics,7.6,96,92,81,7.6,7,8,6,70
+Yash Thakkar,23MLAI12,ML-AI A,Biology,2.2,77,73,76,4.6,6,2,7,82
+Isha Patel,23MLAI30,ML-AI A,Biology,8.0,96,44,73,5.7,8,9,5,49
+Sneha Desai,23MLAI02,ML-AI A,Geography,2.5,100,73,74,9.0,9,9,1,74
+Karan Chauhan,23MLAI18,ML-AI A,Physics,11.9,90,66,53,6.2,8,5,5,90
+Yash Thakkar,23MLAI12,ML-AI A,Chemistry,4.9,50,41,46,4.5,1,2,3,97
+Jaya Chintamreddy,23MLAI05,ML-AI A,Economics,1.0,53,83,45,5.9,0,3,2,50
+Aditi Chauhan,23MLAI13,ML-AI A,Computer Science,5.3,67,47,75,5.9,3,1,7,95
+Divya Gupta,23MLAI22,ML-AI A,Biology,10.4,57,96,41,6.3,8,8,8,96
+Yash Thakkar,23MLAI12,ML-AI A,History,6.7,53,57,89,6.0,5,9,4,51
+Tanvi Mehra,23MLAI28,ML-AI A,Computer Science,7.0,68,56,58,8.8,10,6,3,56
+Yash Thakkar,23MLAI12,ML-AI A,Computer Science,11.6,62,68,57,5.7,2,4,10,97
+Kavya Nair,23MLAI07,ML-AI A,Physics,9.5,78,86,53,6.3,10,9,6,98
+Preeti Patel,23MLAI19,ML-AI A,Geography,9.3,53,53,89,4.4,6,2,3,66
+Vishal Sinha,23MLAI14,ML-AI A,Mathematics,7.5,53,56,44,6.1,9,5,5,48
+Karan Chauhan,23MLAI18,ML-AI A,History,9.2,89,40,54,4.5,4,2,4,99
+Aman Verma,23MLAI08,ML-AI A,Physics,9.9,87,69,94,6.6,4,6,9,50
+Rohan Shah,23MLAI16,ML-AI A,Computer Science,8.8,59,95,92,4.1,1,8,7,59
+Rahul Kumar,23MLAI21,ML-AI A,English,6.9,56,46,43,8.1,10,10,9,67
+Vishal Sinha,23MLAI14,ML-AI A,Chemistry,10.7,70,40,60,6.0,2,10,1,53
+Tanvi Mehra,23MLAI28,ML-AI A,Biology,10.3,58,90,41,7.7,6,1,4,86
+Yash Thakkar,23MLAI12,ML-AI A,English,7.8,95,66,42,4.0,6,3,2,83
+Yash Thakkar,23MLAI12,ML-AI A,English,4.1,72,87,51,9.0,3,5,3,76
+Arjun Rathi,23MLAI23,ML-AI A,Economics,4.5,83,57,83,4.5,9,8,3,80
+Aryan Patel,23MLAI01,ML-AI A,Geography,2.6,82,58,61,8.5,7,2,4,74
+Harshita Yadav,23MLAI11,ML-AI A,Psychology,7.1,58,97,88,9.3,9,10,6,61
+Rohan Shah,23MLAI16,ML-AI A,History,10.7,91,77,79,8.5,4,6,10,86
+Omkar Singh,23MLAI25,ML-AI A,Geography,7.3,69,43,99,6.6,7,7,1,81
+Megha Joshi,23MLAI09,ML-AI A,Physics,2.8,58,61,80,4.9,4,5,1,91
+Megha Joshi,23MLAI09,ML-AI A,Chemistry,4.7,77,55,84,4.3,3,3,5,58
+Rohan Shah,23MLAI16,ML-AI A,Psychology,10.2,95,92,73,6.8,3,10,1,47
+Omkar Singh,23MLAI25,ML-AI A,Chemistry,6.2,89,77,71,6.5,5,1,5,44
+Tanya Dave,23MLAI17,ML-AI A,Economics,9.7,56,53,52,8.3,9,6,5,40
+Simran Kaur,23MLAI15,ML-AI A,Chemistry,8.0,56,80,59,9.1,3,2,8,50
+Sanya Jain,23MLAI24,ML-AI A,Mathematics,8.2,52,89,77,5.1,7,4,8,64
+Omkar Singh,23MLAI25,ML-AI A,Biology,11.7,98,84,61,9.7,3,8,3,61
+Vishal Sinha,23MLAI14,ML-AI A,Psychology,6.3,67,68,99,8.7,9,8,6,65
+Disha Pandya,23MLAI26,ML-AI A,Chemistry,1.0,73,71,51,8.7,2,2,4,70
+Kavya Nair,23MLAI07,ML-AI A,History,7.7,100,75,69,8.4,3,8,4,52
+Vishal Sinha,23MLAI14,ML-AI A,Psychology,11.3,90,74,43,6.2,4,6,3,78
+Kavya Nair,23MLAI07,ML-AI A,Physics,5.5,53,67,86,6.0,5,7,10,41
+Aryan Patel,23MLAI01,ML-AI A,Psychology,9.9,83,89,61,9.3,8,7,2,82
+Pooja Sharma,23MLAI04,ML-AI A,Mathematics,4.4,86,86,89,7.9,6,8,7,86
+Kavya Nair,23MLAI07,ML-AI A,Geography,4.7,76,43,44,6.9,8,7,7,58
+Aman Verma,23MLAI08,ML-AI A,Mathematics,3.9,62,45,76,6.8,0,4,9,66
+Simran Kaur,23MLAI15,ML-AI A,Biology,7.6,77,67,84,7.1,3,10,2,51
+Megha Joshi,23MLAI09,ML-AI A,History,1.4,77,84,99,4.4,4,6,1,93
+Harshita Yadav,23MLAI11,ML-AI A,Physics,3.3,79,87,60,8.8,4,3,7,49
+Jaya Chintamreddy,23MLAI05,ML-AI A,Mathematics,1.0,56,51,78,6.6,4,3,9,92
+Vivek Iyer,23MLAI29,ML-AI A,Chemistry,7.9,71,95,95,9.5,9,7,5,46
+Tanya Dave,23MLAI17,ML-AI A,History,9.0,98,57,81,9.3,4,2,10,97
+Omkar Singh,23MLAI25,ML-AI A,English,1.1,92,80,65,8.2,1,10,4,61
+Karan Chauhan,23MLAI18,ML-AI A,Physics,11.7,78,55,54,7.5,6,3,9,44
+Ravi Mehta,23MLAI03,ML-AI A,Economics,6.1,66,69,82,6.1,3,2,9,41
+Jaya Chintamreddy,23MLAI05,ML-AI A,English,5.6,58,89,93,6.1,2,10,8,92
+Disha Pandya,23MLAI26,ML-AI A,History,9.8,81,51,60,6.7,2,9,2,78
+Aditi Chauhan,23MLAI13,ML-AI A,Geography,1.0,67,51,63,8.4,10,5,7,45
+Divya Gupta,23MLAI22,ML-AI A,Geography,7.2,68,95,74,6.2,0,1,7,56
+Tanvi Mehra,23MLAI28,ML-AI A,Computer Science,6.9,85,63,57,4.8,3,3,2,61
+Megha Joshi,23MLAI09,ML-AI A,Economics,5.1,68,78,84,9.3,1,3,3,92
+Tanvi Mehra,23MLAI28,ML-AI A,Economics,1.4,96,47,62,9.0,9,9,7,68
+Karan Chauhan,23MLAI18,ML-AI A,Mathematics,9.1,84,83,58,4.5,1,7,5,90
+Aditi Chauhan,23MLAI13,ML-AI A,Mathematics,6.5,56,49,57,4.4,7,9,1,66
+Sneha Desai,23MLAI02,ML-AI A,Chemistry,1.3,75,68,79,4.7,3,2,10,67
+Omkar Singh,23MLAI25,ML-AI A,Physics,9.7,71,52,46,4.0,2,1,2,55
+Preeti Patel,23MLAI19,ML-AI A,Computer Science,3.9,91,68,48,5.5,10,9,4,41
+Rahul Kumar,23MLAI21,ML-AI A,History,2.4,93,50,64,5.9,1,8,5,82
+Vivek Iyer,23MLAI29,ML-AI A,Economics,3.1,56,84,59,6.8,7,7,3,78
+Simran Kaur,23MLAI15,ML-AI A,Computer Science,3.5,80,76,88,8.9,0,5,3,62
+Nirali Desai,23MLAI20,ML-AI A,Computer Science,8.0,61,52,83,7.6,5,2,2,80
+Pooja Sharma,23MLAI04,ML-AI A,Physics,6.4,71,73,81,7.9,2,3,7,77
+Ravi Mehta,23MLAI03,ML-AI A,History,2.4,100,45,74,6.1,7,9,10,72
+Rahul Kumar,23MLAI21,ML-AI A,Physics,10.9,89,81,75,5.5,5,3,7,86
+Devansh Shah,23MLAI06,ML-AI A,Geography,4.5,54,96,85,8.0,7,6,4,63
+Jaya Chintamreddy,23MLAI05,ML-AI A,Biology,9.8,50,72,93,6.0,1,6,2,52
+Raj Shah,23MLAI27,ML-AI A,History,1.8,67,74,91,6.9,4,4,3,100
+Vivek Iyer,23MLAI29,ML-AI A,Chemistry,5.8,54,58,41,6.7,3,1,3,80
+Isha Patel,23MLAI30,ML-AI A,Physics,11.6,72,89,90,4.4,5,10,8,43
+Tanvi Mehra,23MLAI28,ML-AI A,Physics,9.3,81,65,78,10.0,3,2,3,75
+Aditi Chauhan,23MLAI13,ML-AI A,History,3.2,99,74,51,7.4,6,3,10,49
+Aditi Chauhan,23MLAI13,ML-AI A,Geography,7.3,63,46,83,7.0,9,8,7,87
+Divya Gupta,23MLAI22,ML-AI A,Biology,3.3,76,47,87,5.6,8,4,8,73
+Devansh Shah,23MLAI06,ML-AI A,Physics,2.0,78,79,66,4.9,9,2,1,92
+Yash Thakkar,23MLAI12,ML-AI A,Physics,8.7,88,55,45,5.8,9,5,10,79
+Rohan Shah,23MLAI16,ML-AI A,Biology,7.5,99,56,92,4.3,10,8,7,71
+Disha Pandya,23MLAI26,ML-AI A,Physics,8.5,94,95,82,8.3,1,8,5,55
+Preeti Patel,23MLAI19,ML-AI A,Computer Science,10.0,80,82,68,9.2,2,3,7,74
+Jaya Chintamreddy,23MLAI05,ML-AI A,Chemistry,7.0,81,55,57,4.2,10,1,1,85
+Isha Patel,23MLAI30,ML-AI A,History,1.9,74,53,65,7.4,5,1,8,53
+Sneha Desai,23MLAI02,ML-AI A,Computer Science,10.0,50,68,44,4.6,3,1,1,87
+Sanya Jain,23MLAI24,ML-AI A,Mathematics,2.1,75,46,49,9.9,3,4,2,81
+Arjun Rathi,23MLAI23,ML-AI A,Computer Science,10.9,57,88,66,5.2,1,1,4,40
+Megha Joshi,23MLAI09,ML-AI A,Psychology,3.5,57,60,62,9.9,0,8,2,61
+Aryan Patel,23MLAI01,ML-AI A,Chemistry,5.4,50,65,81,8.3,10,2,1,76
+Arjun Rathi,23MLAI23,ML-AI A,Mathematics,9.4,55,78,96,7.2,5,6,2,68
+Preeti Patel,23MLAI19,ML-AI A,Biology,7.8,69,97,55,7.8,8,3,1,93
+Nikhil Rana,23MLAI10,ML-AI A,Psychology,5.7,100,68,81,4.5,1,4,9,77
+Harshita Yadav,23MLAI11,ML-AI A,Physics,6.2,56,79,61,4.1,0,8,6,41
+Vishal Sinha,23MLAI14,ML-AI A,Psychology,3.2,94,96,59,6.0,2,10,4,71
+Simran Kaur,23MLAI15,ML-AI A,History,3.1,77,62,47,4.3,3,9,6,73
+Karan Chauhan,23MLAI18,ML-AI A,Computer Science,3.8,99,57,88,6.9,7,5,10,82
+Aditi Chauhan,23MLAI13,ML-AI A,Psychology,11.2,86,48,86,8.1,6,3,2,74
+Harshita Yadav,23MLAI11,ML-AI A,Mathematics,12.0,89,48,82,4.1,3,9,10,58
+Pooja Sharma,23MLAI04,ML-AI A,Economics,6.6,64,83,84,9.8,0,7,7,68
+Karan Chauhan,23MLAI18,ML-AI A,Geography,3.3,50,90,86,7.2,0,4,10,43
+Sneha Desai,23MLAI02,ML-AI A,History,2.6,53,63,65,8.0,8,2,5,61
+Pooja Sharma,23MLAI04,ML-AI A,History,10.4,82,41,93,7.0,9,5,5,83
+Isha Patel,23MLAI30,ML-AI A,Computer Science,4.5,69,79,44,10.0,10,8,3,55
+Tanya Dave,23MLAI17,ML-AI A,Geography,5.4,90,88,52,8.2,9,6,10,79
+Harshita Yadav,23MLAI11,ML-AI A,Chemistry,10.1,88,49,92,7.5,8,7,5,58
+Karan Chauhan,23MLAI18,ML-AI A,English,4.8,80,88,46,7.6,2,9,10,90
+Nirali Desai,23MLAI20,ML-AI A,Biology,5.8,63,93,96,7.3,9,1,8,50
+Arjun Rathi,23MLAI23,ML-AI A,Mathematics,10.2,91,86,86,6.8,6,7,1,57
+Vishal Sinha,23MLAI14,ML-AI A,Physics,7.3,63,98,90,5.2,9,9,3,79
+Preeti Patel,23MLAI19,ML-AI A,Economics,3.2,65,59,70,6.0,2,5,2,90
+Tanvi Mehra,23MLAI28,ML-AI A,Physics,6.1,59,54,94,5.8,6,9,2,94
+Tanvi Mehra,23MLAI28,ML-AI A,Physics,4.8,61,47,58,9.8,5,5,9,71
+Ravi Mehta,23MLAI03,ML-AI A,Economics,7.7,68,79,76,7.1,3,8,3,49
+Ravi Mehta,23MLAI03,ML-AI A,Psychology,6.0,77,44,65,5.0,9,8,8,64
+Raj Shah,23MLAI27,ML-AI A,Geography,2.6,57,55,65,9.6,7,9,7,60
+Megha Joshi,23MLAI09,ML-AI A,Biology,3.2,94,69,89,5.5,2,5,8,100
+Jaya Chintamreddy,23MLAI05,ML-AI A,Computer Science,9.2,60,56,69,6.6,5,10,6,64
+Megha Joshi,23MLAI09,ML-AI A,Chemistry,1.3,80,93,92,8.4,2,8,6,63
+Vivek Iyer,23MLAI29,ML-AI A,Economics,10.5,88,95,87,6.6,1,5,7,84
+Nikhil Rana,23MLAI10,ML-AI A,Economics,5.8,94,57,48,9.2,1,8,10,59
+Rohan Shah,23MLAI16,ML-AI A,Physics,4.7,55,49,66,4.3,5,8,1,91
+Jaya Chintamreddy,23MLAI05,ML-AI A,History,7.1,81,93,76,9.8,0,3,10,74
+Rohan Shah,23MLAI16,ML-AI A,Biology,7.0,95,44,47,5.0,6,9,7,41
+Karan Chauhan,23MLAI18,ML-AI A,English,6.2,71,71,70,7.7,0,5,3,50
+Aman Verma,23MLAI08,ML-AI A,Biology,7.7,91,70,47,4.4,2,1,3,91
+Aman Verma,23MLAI08,ML-AI A,Biology,4.6,70,42,72,8.5,4,7,7,80
+Aditi Chauhan,23MLAI13,ML-AI A,Computer Science,9.3,89,67,48,5.3,6,9,1,66
+Disha Pandya,23MLAI26,ML-AI A,Biology,9.3,51,62,99,9.3,3,8,5,96
+Vivek Iyer,23MLAI29,ML-AI A,History,1.0,93,90,98,5.2,4,5,4,90
+Nikhil Rana,23MLAI10,ML-AI A,Computer Science,1.1,70,90,97,4.3,7,6,3,73
+Aditi Chauhan,23MLAI13,ML-AI A,Biology,8.2,93,66,65,9.6,10,4,9,93
+Disha Pandya,23MLAI26,ML-AI A,Mathematics,8.6,71,43,93,7.7,1,2,2,84
+Yash Thakkar,23MLAI12,ML-AI A,Geography,3.0,100,48,87,7.7,3,2,10,95
+Aditi Chauhan,23MLAI13,ML-AI A,English,9.6,96,63,67,9.0,2,2,1,91
+Divya Gupta,23MLAI22,ML-AI A,Geography,8.7,53,61,97,6.7,6,5,4,58
+Tanvi Mehra,23MLAI28,ML-AI A,Computer Science,9.5,68,82,62,7.5,6,4,3,85
+Vishal Sinha,23MLAI14,ML-AI A,Chemistry,6.7,66,86,87,6.8,4,4,9,56
+Rahul Kumar,23MLAI21,ML-AI A,Psychology,4.9,83,49,49,9.1,1,2,4,41
+Aditi Chauhan,23MLAI13,ML-AI A,Geography,7.0,82,55,69,6.1,4,1,7,53
+Aryan Patel,23MLAI01,ML-AI A,Geography,2.5,57,96,96,8.0,7,3,10,98
+Rohan Shah,23MLAI16,ML-AI A,Biology,9.0,50,95,77,5.5,6,10,4,79
+Omkar Singh,23MLAI25,ML-AI A,Biology,9.0,69,91,48,9.4,2,2,4,54
+Pooja Sharma,23MLAI04,ML-AI A,Biology,11.2,71,72,97,9.8,8,7,6,41
+Vishal Sinha,23MLAI14,ML-AI A,Chemistry,10.5,85,91,76,4.6,2,2,1,73
+Tanya Dave,23MLAI17,ML-AI A,Chemistry,5.5,91,74,46,5.1,6,4,5,62
+Rahul Kumar,23MLAI21,ML-AI A,Mathematics,7.7,65,74,60,8.4,0,3,7,67
+Ravi Mehta,23MLAI03,ML-AI A,Chemistry,2.0,59,70,81,7.8,7,7,1,100
+Vishal Sinha,23MLAI14,ML-AI A,Chemistry,5.0,55,42,61,9.6,3,5,3,44
+Aman Verma,23MLAI08,ML-AI A,English,3.9,79,100,95,6.6,6,10,2,86
+Karan Chauhan,23MLAI18,ML-AI A,Biology,10.2,58,93,82,4.3,0,6,3,69
+Sanya Jain,23MLAI24,ML-AI A,Computer Science,4.0,56,92,47,4.4,0,6,7,45
+Yash Thakkar,23MLAI12,ML-AI A,Physics,7.1,81,71,47,9.0,8,5,2,54
+Yash Thakkar,23MLAI12,ML-AI A,History,2.2,62,64,55,4.9,7,9,7,57
+Arjun Rathi,23MLAI23,ML-AI A,Chemistry,2.6,80,40,81,6.0,9,6,9,66
+Omkar Singh,23MLAI25,ML-AI A,Mathematics,3.5,68,92,95,9.8,1,7,8,73
+Nikhil Rana,23MLAI10,ML-AI A,English,11.1,100,65,70,4.8,8,7,6,53
+Pooja Sharma,23MLAI04,ML-AI A,Economics,6.1,83,72,60,6.1,4,5,3,43
+Megha Joshi,23MLAI09,ML-AI A,Computer Science,2.0,60,100,100,6.5,3,1,4,70
+Megha Joshi,23MLAI09,ML-AI A,Chemistry,3.6,90,88,84,6.1,8,5,8,75
+Arjun Rathi,23MLAI23,ML-AI A,Computer Science,11.8,63,49,78,6.8,9,3,10,74
+Arjun Rathi,23MLAI23,ML-AI A,Economics,8.4,79,65,98,6.0,5,4,10,82
+Preeti Patel,23MLAI19,ML-AI A,Computer Science,10.2,79,65,82,8.7,7,1,4,80
+Raj Shah,23MLAI27,ML-AI A,Computer Science,2.3,93,40,87,9.9,10,4,10,89
+Rahul Kumar,23MLAI21,ML-AI A,Psychology,8.9,58,80,72,4.5,3,7,1,77
+Jaya Chintamreddy,23MLAI05,ML-AI A,Chemistry,10.7,70,78,89,5.0,4,8,3,87
+Rahul Kumar,23MLAI21,ML-AI A,History,2.0,82,49,99,7.4,0,7,7,97
+Karan Chauhan,23MLAI18,ML-AI A,Biology,11.3,82,61,45,7.8,4,5,9,100
+Divya Gupta,23MLAI22,ML-AI A,Psychology,9.9,79,86,97,8.7,0,3,2,88
+Pooja Sharma,23MLAI04,ML-AI A,Mathematics,8.0,53,100,92,9.7,8,7,10,68
+Raj Shah,23MLAI27,ML-AI A,History,3.0,96,63,78,6.9,8,1,5,64
+Aman Verma,23MLAI08,ML-AI A,History,9.1,55,89,63,9.7,1,8,1,62
+Aman Verma,23MLAI08,ML-AI A,Psychology,6.2,77,66,94,8.0,0,5,3,100
+Megha Joshi,23MLAI09,ML-AI A,Computer Science,10.9,92,83,94,7.8,4,5,7,86
+Yash Thakkar,23MLAI12,ML-AI A,Economics,11.9,88,54,75,4.8,6,6,10,92
+Sneha Desai,23MLAI02,ML-AI A,Economics,6.5,58,42,82,8.0,7,9,7,49
+Harshita Yadav,23MLAI11,ML-AI A,Mathematics,9.3,81,89,53,8.4,5,2,6,100
+Raj Shah,23MLAI27,ML-AI A,Mathematics,9.8,91,59,83,8.1,6,2,8,76
+Vishal Sinha,23MLAI14,ML-AI A,Physics,9.8,94,59,92,8.6,3,5,7,64
+Tanvi Mehra,23MLAI28,ML-AI A,Psychology,6.8,83,52,66,4.2,5,10,2,59
+Divya Gupta,23MLAI22,ML-AI A,English,8.0,84,42,52,5.0,8,2,4,95
+Tanya Dave,23MLAI17,ML-AI A,Economics,10.1,82,86,74,8.0,3,1,1,52
+Arjun Rathi,23MLAI23,ML-AI A,Geography,9.9,95,58,43,7.4,2,3,9,66
+Aryan Patel,23MLAI01,ML-AI A,English,9.7,86,60,68,5.9,10,2,4,56
+Megha Joshi,23MLAI09,ML-AI A,Computer Science,12.0,70,88,90,6.3,10,8,4,72
+Aman Verma,23MLAI08,ML-AI A,Chemistry,7.6,62,48,49,7.3,9,8,10,91
+Disha Pandya,23MLAI26,ML-AI A,Geography,6.4,90,99,95,5.5,1,9,9,78
+Rohan Shah,23MLAI16,ML-AI A,Mathematics,9.1,59,74,78,4.6,2,5,4,48
+Aman Verma,23MLAI08,ML-AI A,English,5.9,59,62,82,8.7,4,9,3,40
+Karan Chauhan,23MLAI18,ML-AI A,Psychology,11.0,87,87,88,6.0,0,5,6,66
+Vishal Sinha,23MLAI14,ML-AI A,Chemistry,3.1,99,41,66,5.2,7,8,9,63
+Isha Patel,23MLAI30,ML-AI A,Mathematics,9.9,52,88,81,7.1,10,9,7,45
+Omkar Singh,23MLAI25,ML-AI A,Mathematics,9.9,56,95,89,7.9,8,7,10,41
+Rohan Shah,23MLAI16,ML-AI A,Mathematics,8.9,62,60,99,8.0,2,1,8,65
+Divya Gupta,23MLAI22,ML-AI A,Physics,3.6,78,93,72,9.7,9,9,5,52
+Tanya Dave,23MLAI17,ML-AI A,Chemistry,2.1,90,67,89,4.7,5,3,7,54
+Tanya Dave,23MLAI17,ML-AI A,Geography,5.3,77,78,86,4.8,3,4,2,73
+Kavya Nair,23MLAI07,ML-AI A,Chemistry,1.7,96,76,70,6.6,10,2,7,43
+Megha Joshi,23MLAI09,ML-AI A,Chemistry,7.4,91,80,79,6.7,1,5,9,47
+Kavya Nair,23MLAI07,ML-AI A,Computer Science,11.6,50,59,89,4.9,5,2,9,85
+Karan Chauhan,23MLAI18,ML-AI A,Geography,2.5,57,43,96,4.3,1,8,10,100
+Pooja Sharma,23MLAI04,ML-AI A,Geography,8.1,71,72,78,9.9,0,3,2,98
+Aditi Chauhan,23MLAI13,ML-AI A,Computer Science,4.5,70,63,40,4.3,3,6,1,74
+Megha Joshi,23MLAI09,ML-AI A,Economics,5.6,73,85,41,4.8,8,10,9,94
+Jaya Chintamreddy,23MLAI05,ML-AI A,Physics,11.4,79,98,60,9.7,6,1,4,44
+Isha Patel,23MLAI30,ML-AI A,Economics,6.0,91,100,70,7.1,3,7,4,70
+Omkar Singh,23MLAI25,ML-AI A,Physics,4.7,83,62,69,9.7,8,6,4,57
+Ravi Mehta,23MLAI03,ML-AI A,English,9.6,83,55,99,5.8,4,4,8,96
+Yash Thakkar,23MLAI12,ML-AI A,History,3.1,53,88,85,8.8,0,4,5,64
+Aditi Chauhan,23MLAI13,ML-AI A,Chemistry,11.0,89,78,100,9.9,3,10,10,57
+Tanvi Mehra,23MLAI28,ML-AI A,English,4.9,63,85,84,5.3,8,8,6,54
+Aryan Patel,23MLAI01,ML-AI A,Chemistry,8.7,84,71,77,9.5,1,4,3,49
+Aditi Chauhan,23MLAI13,ML-AI A,Geography,4.1,79,88,85,7.1,8,8,4,49
+Arjun Rathi,23MLAI23,ML-AI A,Economics,3.9,68,89,52,8.2,5,3,8,66
+Karan Chauhan,23MLAI18,ML-AI A,Economics,6.7,62,89,75,8.8,10,2,6,49
+Isha Patel,23MLAI30,ML-AI A,Physics,7.7,93,51,93,8.3,1,6,2,75
+Kavya Nair,23MLAI07,ML-AI A,Computer Science,11.3,60,70,59,4.4,4,9,5,46
+Simran Kaur,23MLAI15,ML-AI A,Mathematics,10.4,72,54,45,9.0,2,3,6,62
+Yash Thakkar,23MLAI12,ML-AI A,Biology,8.0,88,58,86,4.7,6,2,5,48
+Rohan Shah,23MLAI16,ML-AI A,Computer Science,4.7,63,68,46,4.8,1,2,8,90
+Devansh Shah,23MLAI06,ML-AI A,English,8.7,92,84,83,8.2,4,7,5,100
+Disha Pandya,23MLAI26,ML-AI A,Computer Science,11.0,84,73,89,9.8,1,10,5,72
+Nirali Desai,23MLAI20,ML-AI A,Mathematics,3.4,81,56,45,5.7,2,5,6,87
+Isha Patel,23MLAI30,ML-AI A,Mathematics,8.4,66,86,88,7.8,0,6,3,48
+Devansh Shah,23MLAI06,ML-AI A,English,9.2,99,95,44,9.6,9,6,4,87
+Harshita Yadav,23MLAI11,ML-AI A,Mathematics,9.9,87,43,51,9.1,2,3,1,95
+Aditi Chauhan,23MLAI13,ML-AI A,Geography,3.0,57,95,53,4.8,1,8,5,73
+Sneha Desai,23MLAI02,ML-AI A,Psychology,6.1,50,98,46,9.1,7,8,9,45
+Tanya Dave,23MLAI17,ML-AI A,Economics,5.4,85,97,91,6.4,6,4,4,82
+Sanya Jain,23MLAI24,ML-AI A,History,2.4,63,72,93,6.8,7,1,10,53
+Tanya Dave,23MLAI17,ML-AI A,Physics,9.6,80,57,43,9.4,4,2,7,67
+Disha Pandya,23MLAI26,ML-AI A,Physics,7.6,94,73,82,4.3,4,3,10,84
+Karan Chauhan,23MLAI18,ML-AI A,English,1.5,50,44,84,10.0,6,9,6,78
+Vivek Iyer,23MLAI29,ML-AI A,Economics,10.7,55,53,83,9.3,8,2,7,64
+Aman Verma,23MLAI08,ML-AI A,Biology,2.5,85,91,46,4.4,9,5,7,78
+Aditi Chauhan,23MLAI13,ML-AI A,Physics,11.3,91,40,58,5.3,8,5,8,89
+Simran Kaur,23MLAI15,ML-AI A,English,5.0,59,74,52,4.5,9,4,6,47
+Arjun Rathi,23MLAI23,ML-AI A,Biology,11.3,74,92,74,4.8,8,4,7,62
+Vivek Iyer,23MLAI29,ML-AI A,Computer Science,8.7,57,94,48,4.2,6,2,9,62
+Kavya Nair,23MLAI07,ML-AI A,Mathematics,11.4,84,55,44,9.1,2,5,9,64
+Omkar Singh,23MLAI25,ML-AI A,English,4.8,99,88,72,5.2,2,7,10,95
+Aditi Chauhan,23MLAI13,ML-AI A,Computer Science,5.9,70,86,40,7.4,4,2,4,66
+Yash Thakkar,23MLAI12,ML-AI A,Computer Science,1.6,80,70,87,7.5,6,9,5,95
+Karan Chauhan,23MLAI18,ML-AI A,Chemistry,4.6,59,93,94,7.5,8,8,9,51
+Megha Joshi,23MLAI09,ML-AI A,Physics,2.1,67,96,73,4.9,0,2,6,62
+Rahul Kumar,23MLAI21,ML-AI A,Psychology,1.9,51,48,97,9.6,5,9,2,70
+Divya Gupta,23MLAI22,ML-AI A,Geography,8.0,93,77,93,5.2,3,4,5,72
+Yash Thakkar,23MLAI12,ML-AI A,Mathematics,1.7,94,50,81,4.7,7,2,2,77
+Sneha Desai,23MLAI02,ML-AI A,Chemistry,2.8,71,82,59,6.2,10,5,1,45
+Kavya Nair,23MLAI07,ML-AI A,Economics,2.0,100,70,94,5.7,0,6,6,77
+Rahul Kumar,23MLAI21,ML-AI A,Mathematics,1.9,58,49,55,8.9,0,1,9,93
+Raj Shah,23MLAI27,ML-AI A,Chemistry,9.2,61,84,91,5.7,6,1,6,57
+Raj Shah,23MLAI27,ML-AI A,Physics,5.7,60,80,70,7.2,9,7,5,50
+Aryan Patel,23MLAI01,ML-AI A,English,11.8,60,45,88,6.6,1,5,3,57
+Raj Shah,23MLAI27,ML-AI A,Economics,1.1,66,44,57,7.3,5,1,7,61
+Isha Patel,23MLAI30,ML-AI A,Economics,11.2,71,44,57,4.7,3,2,6,97
+Raj Shah,23MLAI27,ML-AI A,Psychology,5.5,92,87,80,6.7,3,6,6,100
+Sanya Jain,23MLAI24,ML-AI A,History,5.4,58,55,78,7.9,6,9,9,76
+Raj Shah,23MLAI27,ML-AI A,History,10.4,82,55,53,7.1,9,4,3,57
+Sanya Jain,23MLAI24,ML-AI A,English,6.5,54,88,43,6.7,5,2,9,60
+Tanya Dave,23MLAI17,ML-AI A,English,7.0,52,93,55,9.1,6,10,4,81
+Devansh Shah,23MLAI06,ML-AI A,History,6.5,92,78,52,4.7,9,9,10,46
+Omkar Singh,23MLAI25,ML-AI A,Mathematics,7.1,74,65,72,9.3,4,8,1,97
+Rahul Kumar,23MLAI21,ML-AI A,Computer Science,8.9,60,64,88,4.9,8,1,1,58
+Sanya Jain,23MLAI24,ML-AI A,History,5.5,88,45,97,5.9,8,5,6,97
+Rahul Kumar,23MLAI21,ML-AI A,History,2.0,85,60,51,8.1,1,2,7,92
+Vishal Sinha,23MLAI14,ML-AI A,Economics,3.7,83,68,88,5.5,0,5,2,89
+Yash Thakkar,23MLAI12,ML-AI A,Psychology,2.8,71,57,74,5.1,9,6,2,90
+Devansh Shah,23MLAI06,ML-AI A,Psychology,4.6,55,91,93,7.6,0,9,5,92
+Rahul Kumar,23MLAI21,ML-AI A,History,5.2,52,50,78,6.6,4,6,9,98
+Divya Gupta,23MLAI22,ML-AI A,Mathematics,5.6,86,85,61,9.1,0,4,4,62
+Vivek Iyer,23MLAI29,ML-AI A,Computer Science,2.9,86,70,80,6.0,6,8,9,87
+Ravi Mehta,23MLAI03,ML-AI A,Chemistry,1.7,75,87,64,9.2,5,4,4,99
+Tanvi Mehra,23MLAI28,ML-AI A,Geography,1.1,94,89,86,4.4,7,9,2,89
+Pooja Sharma,23MLAI04,ML-AI A,Biology,5.2,86,64,47,8.3,5,10,5,40
+Divya Gupta,23MLAI22,ML-AI A,Mathematics,8.8,81,67,41,6.7,4,4,4,63
+Sanya Jain,23MLAI24,ML-AI A,Biology,5.7,60,91,47,8.8,1,1,1,65
+Sanya Jain,23MLAI24,ML-AI A,Computer Science,4.3,70,57,56,4.4,2,10,9,54
+Sneha Desai,23MLAI02,ML-AI A,English,10.2,84,73,95,4.5,1,8,4,52
+Isha Patel,23MLAI30,ML-AI A,Psychology,8.2,70,79,85,4.4,6,4,5,60
+Preeti Patel,23MLAI19,ML-AI A,Geography,7.2,54,79,85,8.2,0,6,4,72
+Omkar Singh,23MLAI25,ML-AI A,Geography,8.3,55,64,43,8.7,4,3,1,54
+Pooja Sharma,23MLAI04,ML-AI A,History,1.8,100,62,47,8.6,6,7,9,66
+Aman Verma,23MLAI08,ML-AI A,Economics,9.6,51,66,59,9.9,10,3,5,92
+Simran Kaur,23MLAI15,ML-AI A,Computer Science,10.7,99,52,69,8.3,5,9,7,82
+Aryan Patel,23MLAI01,ML-AI A,Psychology,10.3,75,61,96,6.3,8,1,5,80
+Vivek Iyer,23MLAI29,ML-AI A,Psychology,11.4,95,82,96,9.0,8,10,5,52
+Aditi Chauhan,23MLAI13,ML-AI A,Computer Science,9.5,75,77,52,8.4,5,6,6,81
+Tanya Dave,23MLAI17,ML-AI A,Biology,6.3,60,62,59,9.3,6,3,5,73
+Aryan Patel,23MLAI01,ML-AI A,Biology,8.3,89,58,69,8.3,10,4,3,67
+Pooja Sharma,23MLAI04,ML-AI A,Geography,1.8,86,96,74,5.6,9,5,4,63
+Devansh Shah,23MLAI06,ML-AI A,History,1.5,83,46,80,7.3,7,6,2,69
+Nikhil Rana,23MLAI10,ML-AI A,Biology,4.8,62,77,48,9.9,5,1,1,62
+Kavya Nair,23MLAI07,ML-AI A,Physics,5.9,91,52,43,8.4,3,9,3,65
+Tanvi Mehra,23MLAI28,ML-AI A,History,7.5,89,60,67,5.5,3,4,1,71
+Pooja Sharma,23MLAI04,ML-AI A,Physics,11.0,73,82,98,7.2,5,1,8,48
+Vishal Sinha,23MLAI14,ML-AI A,Physics,11.0,76,68,61,9.6,8,7,2,42
+Karan Chauhan,23MLAI18,ML-AI A,Physics,8.1,69,85,57,6.6,0,10,2,99
+Aman Verma,23MLAI08,ML-AI A,Economics,4.8,78,63,100,9.5,0,5,4,92
+Aditi Chauhan,23MLAI13,ML-AI A,History,6.2,74,51,71,7.0,10,9,1,54
+Pooja Sharma,23MLAI04,ML-AI A,English,10.8,77,83,61,8.7,9,7,8,88
+Megha Joshi,23MLAI09,ML-AI A,Psychology,4.3,90,87,74,9.7,4,4,9,96
+Rohan Shah,23MLAI16,ML-AI A,Economics,9.3,97,86,79,4.6,6,8,3,47
+Aryan Patel,23MLAI01,ML-AI A,Psychology,2.8,62,48,100,9.4,6,4,3,78
+Pooja Sharma,23MLAI04,ML-AI A,Biology,7.4,68,77,74,4.7,5,9,3,42
+Nikhil Rana,23MLAI10,ML-AI A,English,4.3,66,92,86,5.6,7,3,5,74
+Harshita Yadav,23MLAI11,ML-AI A,English,8.8,81,47,62,9.0,0,4,9,41
+Nirali Desai,23MLAI20,ML-AI A,Physics,6.1,65,60,66,8.4,5,6,1,59
+Arjun Rathi,23MLAI23,ML-AI A,Chemistry,7.8,98,82,78,9.9,5,4,8,61
+Vivek Iyer,23MLAI29,ML-AI A,Psychology,8.3,88,94,61,8.8,0,4,9,72
+Megha Joshi,23MLAI09,ML-AI A,Chemistry,11.1,92,44,64,4.2,8,3,4,74
+Tanya Dave,23MLAI17,ML-AI A,English,5.5,61,40,86,6.1,3,1,5,81
+Jaya Chintamreddy,23MLAI05,ML-AI A,Biology,10.2,93,96,62,4.6,9,7,1,40
+Rahul Kumar,23MLAI21,ML-AI A,English,3.7,79,74,79,9.4,1,6,3,79
+Nikhil Rana,23MLAI10,ML-AI A,Economics,6.2,54,55,68,8.6,9,3,4,99
+Kavya Nair,23MLAI07,ML-AI A,Psychology,8.3,86,45,59,9.9,5,3,7,67
+Sanya Jain,23MLAI24,ML-AI A,History,9.7,79,90,97,4.7,1,2,3,97
+Harshita Yadav,23MLAI11,ML-AI A,Biology,4.2,97,57,71,4.5,1,4,3,62
+Rahul Kumar,23MLAI21,ML-AI A,Biology,4.8,87,50,92,6.2,6,5,5,69
+Kavya Nair,23MLAI07,ML-AI A,History,6.1,94,81,48,8.5,6,9,3,57
+Aryan Patel,23MLAI01,ML-AI A,Physics,11.2,92,64,85,9.9,3,1,6,100
+Harshita Yadav,23MLAI11,ML-AI A,Geography,6.4,94,93,55,4.1,9,7,8,50
+Preeti Patel,23MLAI19,ML-AI A,Geography,9.3,57,45,100,9.7,4,5,2,94
+Vishal Sinha,23MLAI14,ML-AI A,Mathematics,1.4,99,87,89,6.7,2,3,10,77
+Isha Patel,23MLAI30,ML-AI A,Mathematics,10.7,63,65,67,8.7,1,8,1,63
+Isha Patel,23MLAI30,ML-AI A,Economics,8.9,88,61,80,6.0,5,6,10,60
+Megha Joshi,23MLAI09,ML-AI A,Economics,10.9,61,62,76,7.7,10,5,4,52
+Devansh Shah,23MLAI06,ML-AI A,Psychology,9.5,57,62,89,9.9,9,8,10,86
+Harshita Yadav,23MLAI11,ML-AI A,Chemistry,11.1,52,68,96,8.9,4,6,9,46
+Divya Gupta,23MLAI22,ML-AI A,History,5.6,80,93,97,4.6,5,7,9,61
+Rohan Shah,23MLAI16,ML-AI A,Physics,5.4,91,88,82,7.3,7,2,3,62
+Preeti Patel,23MLAI19,ML-AI A,Physics,9.1,82,63,79,4.9,7,5,6,97
+Sneha Desai,23MLAI02,ML-AI A,Psychology,10.1,89,55,46,4.8,7,1,8,55
+Aman Verma,23MLAI08,ML-AI A,Chemistry,3.4,99,78,73,7.2,3,9,2,50
+Nikhil Rana,23MLAI10,ML-AI A,Chemistry,10.9,65,62,88,9.1,6,10,3,40
+Simran Kaur,23MLAI15,ML-AI A,Geography,1.4,94,44,80,9.9,8,10,8,97
+Devansh Shah,23MLAI06,ML-AI A,Computer Science,8.8,78,60,72,4.4,4,1,5,84
+Divya Gupta,23MLAI22,ML-AI A,Mathematics,11.2,79,82,83,4.2,2,8,6,54
+Tanya Dave,23MLAI17,ML-AI A,English,11.5,80,78,83,9.7,7,3,7,77
+Sneha Desai,23MLAI02,ML-AI A,Economics,12.0,71,58,53,6.6,2,8,4,64
+Vivek Iyer,23MLAI29,ML-AI A,Computer Science,10.7,91,45,95,5.8,6,9,6,89
+Arjun Rathi,23MLAI23,ML-AI A,Physics,6.0,81,95,97,8.2,0,5,4,73
+Nikhil Rana,23MLAI10,ML-AI A,History,8.0,80,54,64,6.4,4,7,5,41
+Jaya Chintamreddy,23MLAI05,ML-AI A,Geography,3.5,88,63,80,5.1,6,5,10,86
+Vivek Iyer,23MLAI29,ML-AI A,Biology,7.6,97,75,61,5.2,9,7,1,74
+Simran Kaur,23MLAI15,ML-AI A,Biology,11.2,60,50,69,4.6,5,2,3,71
+Isha Patel,23MLAI30,ML-AI A,English,5.4,57,86,80,6.8,0,8,6,40
+Aryan Patel,23MLAI01,ML-AI A,Computer Science,7.2,53,47,74,5.6,2,2,9,85
+Arjun Rathi,23MLAI23,ML-AI A,Chemistry,8.2,95,72,85,5.8,9,9,6,86
+Raj Shah,23MLAI27,ML-AI A,Geography,2.0,81,44,50,7.9,5,7,6,75
+Aryan Patel,23MLAI01,ML-AI A,Mathematics,1.1,61,43,52,6.6,3,7,8,98
+Jaya Chintamreddy,23MLAI05,ML-AI A,Geography,6.8,59,95,46,6.7,5,9,6,78
+Rahul Kumar,23MLAI21,ML-AI A,Physics,9.9,56,97,66,5.6,3,10,9,56
+Devansh Shah,23MLAI06,ML-AI A,Economics,3.2,66,67,60,7.9,7,6,7,87
+Ravi Mehta,23MLAI03,ML-AI A,Computer Science,5.2,100,98,83,6.5,8,3,6,51
+Vishal Sinha,23MLAI14,ML-AI A,History,3.4,93,94,96,5.0,0,2,2,82
+Vivek Iyer,23MLAI29,ML-AI A,Physics,11.4,71,76,47,8.1,1,7,9,85
+Jaya Chintamreddy,23MLAI05,ML-AI A,Mathematics,8.0,80,41,45,5.0,5,7,3,55
+Aman Verma,23MLAI08,ML-AI A,History,1.8,98,50,92,8.5,4,4,7,94
+Divya Gupta,23MLAI22,ML-AI A,Mathematics,10.7,63,73,87,6.6,6,4,4,82
+Yash Thakkar,23MLAI12,ML-AI A,Computer Science,3.9,71,80,91,6.4,6,4,9,89
+Arjun Rathi,23MLAI23,ML-AI A,Chemistry,3.4,59,94,86,8.2,6,8,2,53
+Sanya Jain,23MLAI24,ML-AI A,Biology,10.0,79,54,42,8.6,7,10,10,55
+Sanya Jain,23MLAI24,ML-AI A,History,3.8,56,84,88,9.4,7,5,7,91
+Kavya Nair,23MLAI07,ML-AI A,Psychology,3.2,65,77,81,7.6,3,9,2,40
+Rahul Kumar,23MLAI21,ML-AI A,Chemistry,11.4,60,51,100,9.3,8,6,4,85
+Omkar Singh,23MLAI25,ML-AI A,Physics,7.6,73,93,65,5.6,9,6,5,98
+Preeti Patel,23MLAI19,ML-AI A,English,3.5,70,99,60,4.9,9,3,7,81
+Sneha Desai,23MLAI02,ML-AI A,Computer Science,3.6,63,61,63,5.7,6,1,4,97
+Arjun Rathi,23MLAI23,ML-AI A,Economics,3.2,95,56,78,7.7,6,4,10,59
+Isha Patel,23MLAI30,ML-AI A,Geography,7.1,94,86,40,7.2,1,2,9,90
+Rahul Kumar,23MLAI21,ML-AI A,Economics,7.1,62,95,92,9.9,9,10,3,85
+Yash Thakkar,23MLAI12,ML-AI A,Physics,9.2,68,67,83,6.2,10,1,3,98
+Disha Pandya,23MLAI26,ML-AI A,Computer Science,6.7,71,41,83,7.4,7,2,9,56
+Vivek Iyer,23MLAI29,ML-AI A,Biology,4.2,88,59,61,6.9,8,8,5,58
+Divya Gupta,23MLAI22,ML-AI A,Geography,2.6,77,65,84,9.7,6,8,7,98
+Raj Shah,23MLAI27,ML-AI A,Psychology,7.8,77,53,53,7.1,0,2,1,87
+Ravi Mehta,23MLAI03,ML-AI A,Economics,9.3,68,44,79,5.2,0,7,10,99
+Sanya Jain,23MLAI24,ML-AI A,English,1.3,76,96,88,9.4,4,10,4,56
+Aditi Chauhan,23MLAI13,ML-AI A,Geography,5.8,99,81,45,5.7,6,2,10,70
+Aryan Patel,23MLAI01,ML-AI A,Psychology,11.9,67,74,91,5.3,4,9,5,70
+Karan Chauhan,23MLAI18,ML-AI A,Mathematics,1.8,89,66,73,9.6,0,3,9,69
+Kavya Nair,23MLAI07,ML-AI A,English,8.1,66,55,76,8.5,0,9,2,57
+Karan Chauhan,23MLAI18,ML-AI A,English,11.2,90,76,67,6.3,8,10,1,94
+Jaya Chintamreddy,23MLAI05,ML-AI A,Mathematics,4.7,56,75,72,4.0,5,8,7,58
+Tanya Dave,23MLAI17,ML-AI A,Mathematics,2.3,88,56,83,10.0,2,5,5,61
+Raj Shah,23MLAI27,ML-AI A,Biology,3.3,92,83,92,5.3,5,3,8,40
+Omkar Singh,23MLAI25,ML-AI A,Psychology,4.8,62,100,62,7.8,6,1,6,44
+Omkar Singh,23MLAI25,ML-AI A,Geography,6.6,96,40,44,10.0,10,6,10,98
+Aryan Patel,23MLAI01,ML-AI A,Psychology,8.0,68,91,73,6.2,2,4,7,69
+Raj Shah,23MLAI27,ML-AI A,Computer Science,7.8,58,52,85,6.9,0,5,1,96
+Tanya Dave,23MLAI17,ML-AI A,Physics,1.7,79,46,59,4.6,1,5,4,49
+Disha Pandya,23MLAI26,ML-AI A,Geography,3.6,73,76,99,8.4,1,5,8,95
+Aryan Patel,23MLAI01,ML-AI A,Computer Science,6.4,72,86,92,4.5,4,4,4,64
+Preeti Patel,23MLAI19,ML-AI A,Mathematics,3.5,60,74,40,7.5,7,6,8,78
+Vivek Iyer,23MLAI29,ML-AI A,Chemistry,6.8,59,50,71,9.5,2,3,1,43
+Sneha Desai,23MLAI02,ML-AI A,Biology,5.7,85,79,58,6.4,2,2,3,78
+Rohan Shah,23MLAI16,ML-AI A,Chemistry,7.2,85,42,97,8.1,0,10,8,82
+Megha Joshi,23MLAI09,ML-AI A,English,7.7,92,61,41,9.3,8,9,10,52
+Arjun Rathi,23MLAI23,ML-AI A,Chemistry,9.6,98,94,88,8.9,7,10,5,51
+Rohan Shah,23MLAI16,ML-AI A,Physics,4.9,51,76,79,7.3,5,7,8,64
+Sneha Desai,23MLAI02,ML-AI A,Physics,8.0,79,43,57,9.9,9,10,3,87
+Jaya Chintamreddy,23MLAI05,ML-AI A,Biology,1.4,99,68,69,4.3,6,1,10,91
+Disha Pandya,23MLAI26,ML-AI A,Psychology,1.7,63,74,59,8.2,0,2,10,72
+Harshita Yadav,23MLAI11,ML-AI A,Chemistry,1.6,83,80,97,6.0,0,3,5,42
+Aryan Patel,23MLAI01,ML-AI A,Physics,4.6,84,52,72,8.5,2,2,3,90
+Disha Pandya,23MLAI26,ML-AI A,Mathematics,1.6,67,59,40,6.6,8,3,10,63
+Aman Verma,23MLAI08,ML-AI A,Chemistry,6.8,81,85,78,8.8,0,3,2,62
+Kavya Nair,23MLAI07,ML-AI A,Physics,2.6,74,87,52,6.8,10,4,9,100
+Nirali Desai,23MLAI20,ML-AI A,Biology,11.6,93,84,91,6.6,3,5,3,96
+Aryan Patel,23MLAI01,ML-AI A,History,3.1,52,50,81,9.7,1,10,1,71
+Divya Gupta,23MLAI22,ML-AI A,Geography,1.5,68,50,80,9.0,5,7,5,82
+Omkar Singh,23MLAI25,ML-AI A,Biology,9.7,88,82,72,6.4,0,5,5,79
+Aman Verma,23MLAI08,ML-AI A,Economics,6.5,96,53,91,7.6,4,1,10,81
+Simran Kaur,23MLAI15,ML-AI A,Psychology,11.0,90,46,58,5.2,2,8,4,100
+Sanya Jain,23MLAI24,ML-AI A,Economics,8.4,61,70,59,6.6,6,6,6,50
+Tanvi Mehra,23MLAI28,ML-AI A,Biology,5.1,87,86,50,7.7,1,10,4,95
+Preeti Patel,23MLAI19,ML-AI A,History,6.2,98,96,75,7.8,2,7,5,66
+Tanvi Mehra,23MLAI28,ML-AI A,Mathematics,8.3,62,84,97,5.3,0,2,7,55
+Aman Verma,23MLAI08,ML-AI A,Biology,11.3,61,97,55,9.2,5,8,2,84
+Pooja Sharma,23MLAI04,ML-AI A,Chemistry,5.1,98,88,77,6.6,5,7,5,72
+Jaya Chintamreddy,23MLAI05,ML-AI A,Psychology,5.7,84,57,53,5.2,1,10,3,98
+Raj Shah,23MLAI27,ML-AI A,Psychology,11.7,81,64,47,7.9,2,1,10,66
+Tanvi Mehra,23MLAI28,ML-AI A,English,4.1,98,89,43,5.8,1,1,8,88
+Divya Gupta,23MLAI22,ML-AI A,Physics,2.3,77,83,82,8.6,9,1,6,94
+Harshita Yadav,23MLAI11,ML-AI A,Geography,11.7,87,64,53,8.4,8,7,5,88
+Rohan Shah,23MLAI16,ML-AI A,Computer Science,1.3,64,71,45,4.7,0,4,6,81
+Jaya Chintamreddy,23MLAI05,ML-AI A,Mathematics,1.9,54,87,46,5.9,3,1,4,79
+Raj Shah,23MLAI27,ML-AI A,History,8.1,92,64,53,8.6,1,1,1,86
+Raj Shah,23MLAI27,ML-AI A,Chemistry,11.3,88,57,52,4.9,6,7,1,52
+Sanya Jain,23MLAI24,ML-AI A,Mathematics,6.8,58,49,54,9.8,8,4,8,67
+Rahul Kumar,23MLAI21,ML-AI A,Biology,3.8,76,73,61,4.7,6,8,1,82
+Arjun Rathi,23MLAI23,ML-AI A,Psychology,5.9,55,90,96,9.0,3,6,10,97
+Divya Gupta,23MLAI22,ML-AI A,Geography,6.5,65,96,41,9.4,7,4,9,48
+Kavya Nair,23MLAI07,ML-AI A,Psychology,1.0,62,89,83,6.6,10,7,7,84
+Pooja Sharma,23MLAI04,ML-AI A,English,8.0,60,72,95,9.8,8,10,2,77
+Preeti Patel,23MLAI19,ML-AI A,English,2.5,77,93,64,4.2,0,7,2,58
+Sneha Desai,23MLAI02,ML-AI A,Chemistry,2.2,72,64,91,5.6,5,9,7,90
+Aditi Chauhan,23MLAI13,ML-AI A,Computer Science,6.9,69,51,95,4.4,7,4,1,48
+Sneha Desai,23MLAI02,ML-AI A,Computer Science,10.4,71,69,66,4.1,9,7,3,79
+Aditi Chauhan,23MLAI13,ML-AI A,English,4.4,99,65,57,8.0,9,4,5,62
+Arjun Rathi,23MLAI23,ML-AI A,Economics,11.9,61,86,77,8.8,2,6,2,49
+Tanvi Mehra,23MLAI28,ML-AI A,Chemistry,3.4,84,69,40,8.0,2,5,9,81
+Simran Kaur,23MLAI15,ML-AI A,Biology,5.0,84,49,89,4.6,4,10,1,87
+Simran Kaur,23MLAI15,ML-AI A,Computer Science,3.6,69,65,67,5.7,5,10,1,90
+Vivek Iyer,23MLAI29,ML-AI A,Mathematics,8.7,72,72,90,9.9,7,4,10,40
+Sanya Jain,23MLAI24,ML-AI A,Physics,7.9,58,55,84,6.3,7,10,3,40
+Raj Shah,23MLAI27,ML-AI A,Chemistry,7.0,90,72,98,6.9,2,4,2,71
+Preeti Patel,23MLAI19,ML-AI A,Chemistry,9.3,91,62,70,6.9,5,2,9,41
+Pooja Sharma,23MLAI04,ML-AI A,Economics,6.7,56,86,67,5.2,3,8,3,67
+Aditi Chauhan,23MLAI13,ML-AI A,Mathematics,1.2,85,54,51,4.2,4,3,4,99
+Rohan Shah,23MLAI16,ML-AI A,English,10.4,100,71,97,8.5,4,4,10,52
+Raj Shah,23MLAI27,ML-AI A,Mathematics,11.8,100,69,94,9.7,6,1,9,40
+Aditi Chauhan,23MLAI13,ML-AI A,Economics,9.1,61,79,73,8.1,2,4,2,70
+Raj Shah,23MLAI27,ML-AI A,English,8.9,54,72,95,9.0,5,4,1,46
+Aditi Chauhan,23MLAI13,ML-AI A,Biology,5.7,91,92,84,7.3,6,6,6,48
+Jaya Chintamreddy,23MLAI05,ML-AI A,History,2.4,78,69,44,9.6,8,1,3,45
+Sneha Desai,23MLAI02,ML-AI A,History,9.1,51,49,72,4.3,4,4,4,78
+Aryan Patel,23MLAI01,ML-AI A,Mathematics,8.8,85,46,61,5.5,1,10,3,92
+Omkar Singh,23MLAI25,ML-AI A,Computer Science,2.2,87,42,52,5.4,6,4,2,82
+Jaya Chintamreddy,23MLAI05,ML-AI A,Chemistry,11.1,94,49,73,5.4,7,6,8,79
+Pooja Sharma,23MLAI04,ML-AI A,English,5.3,94,57,66,6.1,10,9,3,77
+Vishal Sinha,23MLAI14,ML-AI A,Economics,5.1,52,97,94,7.8,1,1,5,51
+Omkar Singh,23MLAI25,ML-AI A,Chemistry,6.4,53,81,84,4.3,1,3,8,59
+Vivek Iyer,23MLAI29,ML-AI A,Geography,3.7,97,92,68,8.4,1,5,2,71
+Sneha Desai,23MLAI02,ML-AI A,History,9.2,94,79,77,6.5,0,8,5,75
+Rahul Kumar,23MLAI21,ML-AI A,Psychology,9.6,85,53,49,6.0,5,4,3,100
+Omkar Singh,23MLAI25,ML-AI A,Biology,10.6,60,40,77,6.4,7,9,2,65
+Kavya Nair,23MLAI07,ML-AI A,Economics,4.0,94,52,93,10.0,9,6,8,81
+Tanya Dave,23MLAI17,ML-AI A,Biology,4.2,68,53,69,7.8,4,1,10,79
+Nikhil Rana,23MLAI10,ML-AI A,Geography,11.1,100,79,84,4.1,8,2,1,77
+Vivek Iyer,23MLAI29,ML-AI A,History,1.8,64,54,57,5.2,6,9,6,68
+Ravi Mehta,23MLAI03,ML-AI A,English,8.5,69,65,79,7.6,8,9,8,80
+Aryan Patel,23MLAI01,ML-AI A,Psychology,1.4,98,80,67,6.2,0,7,8,70
+Raj Shah,23MLAI27,ML-AI A,Psychology,2.8,96,76,86,7.3,10,6,6,94
+Raj Shah,23MLAI27,ML-AI A,Psychology,11.7,100,42,46,6.5,4,4,10,77
+Nirali Desai,23MLAI20,ML-AI A,Chemistry,2.5,91,83,84,9.1,3,8,9,65
+Aditi Chauhan,23MLAI13,ML-AI A,Computer Science,1.6,54,64,74,5.4,9,7,3,92
+Jaya Chintamreddy,23MLAI05,ML-AI A,Psychology,10.7,80,87,89,4.7,3,4,1,67
+Vivek Iyer,23MLAI29,ML-AI A,English,5.9,95,97,56,6.8,3,4,7,95
+Nikhil Rana,23MLAI10,ML-AI A,Geography,7.5,77,81,42,7.0,3,8,6,85
+Vishal Sinha,23MLAI14,ML-AI A,Economics,1.3,54,67,63,4.4,7,6,4,49
+Rohan Shah,23MLAI16,ML-AI A,Psychology,5.9,85,42,97,8.3,8,5,2,40
+Nirali Desai,23MLAI20,ML-AI A,Chemistry,9.6,82,53,85,8.5,4,9,9,92
+Yash Thakkar,23MLAI12,ML-AI A,English,2.9,98,82,66,5.4,9,10,8,43
+Aman Verma,23MLAI08,ML-AI A,Mathematics,1.3,60,85,59,9.1,4,2,10,100
+Preeti Patel,23MLAI19,ML-AI A,Biology,3.0,61,50,41,8.5,9,8,2,68
+Megha Joshi,23MLAI09,ML-AI A,Computer Science,6.9,56,45,50,4.2,0,2,5,43
+Harshita Yadav,23MLAI11,ML-AI A,Geography,1.7,92,79,73,6.2,0,7,1,49
+Ravi Mehta,23MLAI03,ML-AI A,English,1.1,55,73,72,6.0,2,7,9,98
+Tanya Dave,23MLAI17,ML-AI A,Biology,3.0,100,96,95,9.5,5,1,10,87
+Tanvi Mehra,23MLAI28,ML-AI A,Physics,8.2,73,40,88,5.3,2,5,2,77
+Sneha Desai,23MLAI02,ML-AI A,Computer Science,11.5,91,77,78,5.1,0,10,8,66
+Vishal Sinha,23MLAI14,ML-AI A,Economics,6.3,51,82,84,8.5,4,6,6,65
+Aman Verma,23MLAI08,ML-AI A,Computer Science,8.8,94,68,53,7.3,8,8,2,42
+Harshita Yadav,23MLAI11,ML-AI A,Geography,10.6,80,72,66,6.1,5,3,4,50
+Omkar Singh,23MLAI25,ML-AI A,Physics,11.9,53,55,62,7.8,8,2,4,75
+Ravi Mehta,23MLAI03,ML-AI A,Biology,5.2,54,88,93,7.4,9,10,9,53
+Rohan Shah,23MLAI16,ML-AI A,Biology,4.9,74,61,76,7.7,6,7,4,85
+Aman Verma,23MLAI08,ML-AI A,Biology,11.4,85,53,91,9.9,9,1,3,45
+Aditi Chauhan,23MLAI13,ML-AI A,English,11.3,74,94,96,7.5,4,7,7,65
+Disha Pandya,23MLAI26,ML-AI A,History,3.5,88,78,86,6.6,7,2,9,94
+Vivek Iyer,23MLAI29,ML-AI A,Computer Science,6.1,71,45,66,7.1,9,3,6,80
+Preeti Patel,23MLAI19,ML-AI A,Chemistry,10.2,82,91,48,8.0,1,8,1,42
+Rahul Kumar,23MLAI21,ML-AI A,Chemistry,7.7,89,58,56,9.1,4,1,10,63
+Nirali Desai,23MLAI20,ML-AI A,History,11.8,52,70,81,4.8,10,2,2,58
+Preeti Patel,23MLAI19,ML-AI A,Computer Science,8.0,94,76,63,4.6,10,5,2,40
+Divya Gupta,23MLAI22,ML-AI A,Physics,8.9,59,53,46,9.4,9,4,2,54
+Vivek Iyer,23MLAI29,ML-AI A,Psychology,2.5,54,68,45,8.2,6,6,7,46
+Isha Patel,23MLAI30,ML-AI A,Physics,4.6,76,82,93,9.4,7,1,1,54
+Devansh Shah,23MLAI06,ML-AI A,Geography,6.6,72,46,83,4.6,6,9,10,69
+Sneha Desai,23MLAI02,ML-AI A,Chemistry,5.3,60,84,94,7.6,3,6,5,49
+Aman Verma,23MLAI08,ML-AI A,Biology,9.6,80,83,92,4.3,7,7,8,43
+Arjun Rathi,23MLAI23,ML-AI A,Biology,11.3,83,59,71,8.7,1,4,9,44
+Arjun Rathi,23MLAI23,ML-AI A,English,3.8,53,84,75,7.1,9,3,10,62
+Tanvi Mehra,23MLAI28,ML-AI A,Mathematics,3.7,53,73,86,8.6,9,1,2,63
+Arjun Rathi,23MLAI23,ML-AI A,Computer Science,6.5,77,59,77,4.4,7,7,9,44
+Ravi Mehta,23MLAI03,ML-AI A,History,3.5,56,83,67,7.4,8,4,6,90
+Pooja Sharma,23MLAI04,ML-AI A,Chemistry,10.5,71,72,93,7.1,7,7,2,48
+Sneha Desai,23MLAI02,ML-AI A,Psychology,5.5,75,95,79,8.0,0,5,1,68
+Sneha Desai,23MLAI02,ML-AI A,Economics,2.0,62,40,60,10.0,6,10,1,82
+Aryan Patel,23MLAI01,ML-AI A,Psychology,7.4,66,98,55,9.8,9,3,2,53
+Simran Kaur,23MLAI15,ML-AI A,Economics,9.1,83,77,98,5.9,3,6,6,98
+Aman Verma,23MLAI08,ML-AI A,Biology,8.4,82,50,97,6.6,1,8,9,74
+Ravi Mehta,23MLAI03,ML-AI A,Chemistry,4.5,92,53,44,6.2,1,10,6,79
+Disha Pandya,23MLAI26,ML-AI A,History,5.7,97,46,55,5.8,10,1,9,46
+Divya Gupta,23MLAI22,ML-AI A,Psychology,1.1,80,70,54,4.1,3,9,8,84
+Harshita Yadav,23MLAI11,ML-AI A,Computer Science,1.7,69,51,73,4.1,9,1,2,62
+Vivek Iyer,23MLAI29,ML-AI A,Economics,10.9,67,73,96,7.2,8,3,9,79
+Raj Shah,23MLAI27,ML-AI A,Computer Science,7.2,99,76,58,8.3,9,5,2,81
+Ravi Mehta,23MLAI03,ML-AI A,Mathematics,1.8,65,66,87,9.0,6,9,10,46
+Tanvi Mehra,23MLAI28,ML-AI A,Chemistry,2.3,59,67,59,6.9,1,10,3,44
+Simran Kaur,23MLAI15,ML-AI A,English,3.5,99,89,94,4.9,3,7,7,82
+Preeti Patel,23MLAI19,ML-AI A,Psychology,12.0,92,43,98,4.7,4,4,9,88
+Rohan Shah,23MLAI16,ML-AI A,Mathematics,10.4,77,92,99,9.9,5,4,8,68
+Raj Shah,23MLAI27,ML-AI A,Psychology,5.8,59,84,52,5.4,0,9,6,74
+Divya Gupta,23MLAI22,ML-AI A,English,6.2,77,54,54,5.7,10,9,2,42
+Kavya Nair,23MLAI07,ML-AI A,History,5.7,62,96,95,5.7,2,7,8,82
+Omkar Singh,23MLAI25,ML-AI A,Geography,4.8,65,98,96,6.7,6,4,4,90
+Harshita Yadav,23MLAI11,ML-AI A,Psychology,8.0,69,98,56,5.2,3,9,1,86
+Preeti Patel,23MLAI19,ML-AI A,Biology,1.6,82,42,64,9.6,1,3,2,76
+Preeti Patel,23MLAI19,ML-AI A,Economics,5.6,98,74,53,9.3,2,2,4,79
+Pooja Sharma,23MLAI04,ML-AI A,Physics,4.2,83,49,93,9.0,7,6,8,42
+Divya Gupta,23MLAI22,ML-AI A,Mathematics,5.0,96,82,86,7.1,3,7,5,60
+Ravi Mehta,23MLAI03,ML-AI A,Mathematics,8.9,79,94,65,4.5,2,6,1,51
+Arjun Rathi,23MLAI23,ML-AI A,English,7.2,94,78,74,7.4,9,9,6,49
+Sneha Desai,23MLAI02,ML-AI A,Chemistry,11.7,86,65,99,9.1,3,7,3,100
+Isha Patel,23MLAI30,ML-AI A,Geography,4.9,56,80,85,7.3,9,10,9,42
+Aditi Chauhan,23MLAI13,ML-AI A,Economics,1.2,68,84,40,5.4,6,10,1,74
+Rohan Shah,23MLAI16,ML-AI A,Geography,4.8,54,79,83,7.2,10,8,3,88
+Raj Shah,23MLAI27,ML-AI A,Chemistry,8.1,87,92,48,4.4,1,10,5,97
+Sanya Jain,23MLAI24,ML-AI A,Mathematics,2.6,67,93,71,8.4,2,2,3,87
+Isha Patel,23MLAI30,ML-AI A,Physics,5.6,50,59,81,6.4,6,10,7,49
+Tanvi Mehra,23MLAI28,ML-AI A,Chemistry,3.8,56,47,69,7.1,8,4,1,50
+Aditi Chauhan,23MLAI13,ML-AI A,Chemistry,4.2,63,49,67,5.9,1,5,1,59
+Tanvi Mehra,23MLAI28,ML-AI A,Biology,8.0,50,76,84,6.0,8,4,7,45
+Vishal Sinha,23MLAI14,ML-AI A,Physics,1.8,75,96,78,9.5,0,5,10,67
+Raj Shah,23MLAI27,ML-AI A,Physics,5.5,58,83,40,7.5,4,6,7,86
+Nirali Desai,23MLAI20,ML-AI A,Chemistry,8.1,91,84,77,9.8,8,1,3,84
+Aditi Chauhan,23MLAI13,ML-AI A,Physics,4.3,99,84,50,8.8,0,8,8,96
+Jaya Chintamreddy,23MLAI05,ML-AI A,Computer Science,4.5,72,72,53,8.7,6,5,6,74
+Nikhil Rana,23MLAI10,ML-AI A,Physics,2.7,83,93,52,6.5,9,9,3,74
+Omkar Singh,23MLAI25,ML-AI A,Physics,3.8,55,64,72,9.2,5,2,6,80
+Preeti Patel,23MLAI19,ML-AI A,Psychology,4.9,87,74,89,4.0,3,4,2,58
+Pooja Sharma,23MLAI04,ML-AI A,History,7.6,71,77,97,7.6,2,8,3,95
+Nirali Desai,23MLAI20,ML-AI A,Physics,4.6,51,84,87,9.7,2,10,10,40
+Megha Joshi,23MLAI09,ML-AI A,Mathematics,2.8,96,73,99,8.3,7,3,7,80
+Tanya Dave,23MLAI17,ML-AI A,Mathematics,10.9,76,64,92,7.7,4,8,5,70
+Harshita Yadav,23MLAI11,ML-AI A,English,10.3,89,84,68,6.3,6,5,4,79
+Arjun Rathi,23MLAI23,ML-AI A,Chemistry,6.6,98,63,68,8.5,6,6,9,65
+Nikhil Rana,23MLAI10,ML-AI A,Computer Science,2.2,100,69,81,8.0,4,8,8,58
+Ravi Mehta,23MLAI03,ML-AI A,Biology,1.6,68,94,55,5.6,4,8,5,99
+Preeti Patel,23MLAI19,ML-AI A,Geography,2.4,73,48,45,7.2,0,2,10,56
+Ravi Mehta,23MLAI03,ML-AI A,History,6.9,70,86,47,7.8,10,3,10,45
+Raj Shah,23MLAI27,ML-AI A,Economics,7.3,79,50,73,4.7,7,4,9,67
+Arjun Rathi,23MLAI23,ML-AI A,Psychology,6.0,58,78,99,9.6,7,1,8,47
+Isha Patel,23MLAI30,ML-AI A,Biology,6.8,59,86,73,4.8,2,10,9,92
+Vishal Sinha,23MLAI14,ML-AI A,Physics,6.0,87,82,51,6.0,7,4,2,91
+Pooja Sharma,23MLAI04,ML-AI A,Economics,1.8,81,95,62,4.5,7,9,8,44
+Raj Shah,23MLAI27,ML-AI A,Computer Science,5.6,63,80,76,6.3,3,8,5,64
+Aman Verma,23MLAI08,ML-AI A,English,6.3,70,75,58,7.5,3,10,5,69
+Disha Pandya,23MLAI26,ML-AI A,Chemistry,11.1,93,64,67,8.0,5,1,3,81
+Simran Kaur,23MLAI15,ML-AI A,English,7.7,82,81,56,4.2,8,5,1,92
+Vivek Iyer,23MLAI29,ML-AI A,Physics,9.3,100,43,84,6.1,7,4,1,87
+Aman Verma,23MLAI08,ML-AI A,Economics,10.9,67,91,73,7.2,3,6,7,97
+Raj Shah,23MLAI27,ML-AI A,Biology,10.6,98,59,81,4.4,2,6,3,45
+Jaya Chintamreddy,23MLAI05,ML-AI A,Physics,7.6,83,60,42,8.8,3,4,2,81
+Rohan Shah,23MLAI16,ML-AI A,Economics,5.3,70,88,86,9.1,7,4,9,42
+Vishal Sinha,23MLAI14,ML-AI A,Economics,11.3,92,89,56,8.3,0,5,3,97
+Sanya Jain,23MLAI24,ML-AI A,Mathematics,1.7,82,89,58,4.4,2,9,2,76
+Vishal Sinha,23MLAI14,ML-AI A,Psychology,2.0,89,64,75,5.1,3,1,2,97
+Simran Kaur,23MLAI15,ML-AI A,History,11.4,76,78,60,7.8,8,7,1,75
+Megha Joshi,23MLAI09,ML-AI A,Chemistry,8.8,96,88,93,8.5,9,7,1,59
+Rohan Shah,23MLAI16,ML-AI A,Geography,10.8,63,98,43,5.4,4,3,10,48
+Rohan Shah,23MLAI16,ML-AI A,Economics,6.6,72,87,96,6.5,3,2,8,63
+Aman Verma,23MLAI08,ML-AI A,Physics,8.0,89,45,95,4.7,5,2,10,49
+Vishal Sinha,23MLAI14,ML-AI A,Economics,7.6,96,92,81,7.6,7,8,6,70
+Yash Thakkar,23MLAI12,ML-AI A,Biology,2.2,77,73,76,4.6,6,2,7,82
+Isha Patel,23MLAI30,ML-AI A,Biology,8.0,96,44,73,5.7,8,9,5,49
+Sneha Desai,23MLAI02,ML-AI A,Geography,2.5,100,73,74,9.0,9,9,1,74
+Karan Chauhan,23MLAI18,ML-AI A,Physics,11.9,90,66,53,6.2,8,5,5,90
+Yash Thakkar,23MLAI12,ML-AI A,Chemistry,4.9,50,41,46,4.5,1,2,3,97
+Jaya Chintamreddy,23MLAI05,ML-AI A,Economics,1.0,53,83,45,5.9,0,3,2,50
+Aditi Chauhan,23MLAI13,ML-AI A,Computer Science,5.3,67,47,75,5.9,3,1,7,95
+Divya Gupta,23MLAI22,ML-AI A,Biology,10.4,57,96,41,6.3,8,8,8,96
+Yash Thakkar,23MLAI12,ML-AI A,History,6.7,53,57,89,6.0,5,9,4,51
+Tanvi Mehra,23MLAI28,ML-AI A,Computer Science,7.0,68,56,58,8.8,10,6,3,56
+Yash Thakkar,23MLAI12,ML-AI A,Computer Science,11.6,62,68,57,5.7,2,4,10,97
+Kavya Nair,23MLAI07,ML-AI A,Physics,9.5,78,86,53,6.3,10,9,6,98
+Preeti Patel,23MLAI19,ML-AI A,Geography,9.3,53,53,89,4.4,6,2,3,66
+Vishal Sinha,23MLAI14,ML-AI A,Mathematics,7.5,53,56,44,6.1,9,5,5,48
+Karan Chauhan,23MLAI18,ML-AI A,History,9.2,89,40,54,4.5,4,2,4,99
+Aman Verma,23MLAI08,ML-AI A,Physics,9.9,87,69,94,6.6,4,6,9,50
+Rohan Shah,23MLAI16,ML-AI A,Computer Science,8.8,59,95,92,4.1,1,8,7,59
+Rahul Kumar,23MLAI21,ML-AI A,English,6.9,56,46,43,8.1,10,10,9,67
+Vishal Sinha,23MLAI14,ML-AI A,Chemistry,10.7,70,40,60,6.0,2,10,1,53
+Tanvi Mehra,23MLAI28,ML-AI A,Biology,10.3,58,90,41,7.7,6,1,4,86
+Yash Thakkar,23MLAI12,ML-AI A,English,7.8,95,66,42,4.0,6,3,2,83
+Yash Thakkar,23MLAI12,ML-AI A,English,4.1,72,87,51,9.0,3,5,3,76
+Arjun Rathi,23MLAI23,ML-AI A,Economics,4.5,83,57,83,4.5,9,8,3,80
+Aryan Patel,23MLAI01,ML-AI A,Geography,2.6,82,58,61,8.5,7,2,4,74
+Harshita Yadav,23MLAI11,ML-AI A,Psychology,7.1,58,97,88,9.3,9,10,6,61
+Rohan Shah,23MLAI16,ML-AI A,History,10.7,91,77,79,8.5,4,6,10,86
+Omkar Singh,23MLAI25,ML-AI A,Geography,7.3,69,43,99,6.6,7,7,1,81
+Megha Joshi,23MLAI09,ML-AI A,Physics,2.8,58,61,80,4.9,4,5,1,91
+Megha Joshi,23MLAI09,ML-AI A,Chemistry,4.7,77,55,84,4.3,3,3,5,58
+Rohan Shah,23MLAI16,ML-AI A,Psychology,10.2,95,92,73,6.8,3,10,1,47
+Omkar Singh,23MLAI25,ML-AI A,Chemistry,6.2,89,77,71,6.5,5,1,5,44
+Tanya Dave,23MLAI17,ML-AI A,Economics,9.7,56,53,52,8.3,9,6,5,40
+Simran Kaur,23MLAI15,ML-AI A,Chemistry,8.0,56,80,59,9.1,3,2,8,50
+Sanya Jain,23MLAI24,ML-AI A,Mathematics,8.2,52,89,77,5.1,7,4,8,64
+Omkar Singh,23MLAI25,ML-AI A,Biology,11.7,98,84,61,9.7,3,8,3,61
+Vishal Sinha,23MLAI14,ML-AI A,Psychology,6.3,67,68,99,8.7,9,8,6,65
+Disha Pandya,23MLAI26,ML-AI A,Chemistry,1.0,73,71,51,8.7,2,2,4,70
+Kavya Nair,23MLAI07,ML-AI A,History,7.7,100,75,69,8.4,3,8,4,52
+Vishal Sinha,23MLAI14,ML-AI A,Psychology,11.3,90,74,43,6.2,4,6,3,78
+Kavya Nair,23MLAI07,ML-AI A,Physics,5.5,53,67,86,6.0,5,7,10,41
+Aryan Patel,23MLAI01,ML-AI A,Psychology,9.9,83,89,61,9.3,8,7,2,82
+Pooja Sharma,23MLAI04,ML-AI A,Mathematics,4.4,86,86,89,7.9,6,8,7,86
+Kavya Nair,23MLAI07,ML-AI A,Geography,4.7,76,43,44,6.9,8,7,7,58
+Aman Verma,23MLAI08,ML-AI A,Mathematics,3.9,62,45,76,6.8,0,4,9,66
+Simran Kaur,23MLAI15,ML-AI A,Biology,7.6,77,67,84,7.1,3,10,2,51
+Megha Joshi,23MLAI09,ML-AI A,History,1.4,77,84,99,4.4,4,6,1,93
+Harshita Yadav,23MLAI11,ML-AI A,Physics,3.3,79,87,60,8.8,4,3,7,49
+Jaya Chintamreddy,23MLAI05,ML-AI A,Mathematics,1.0,56,51,78,6.6,4,3,9,92
+Vivek Iyer,23MLAI29,ML-AI A,Chemistry,7.9,71,95,95,9.5,9,7,5,46
+Tanya Dave,23MLAI17,ML-AI A,History,9.0,98,57,81,9.3,4,2,10,97
+Omkar Singh,23MLAI25,ML-AI A,English,1.1,92,80,65,8.2,1,10,4,61
+Karan Chauhan,23MLAI18,ML-AI A,Physics,11.7,78,55,54,7.5,6,3,9,44
+Ravi Mehta,23MLAI03,ML-AI A,Economics,6.1,66,69,82,6.1,3,2,9,41
+Jaya Chintamreddy,23MLAI05,ML-AI A,English,5.6,58,89,93,6.1,2,10,8,92
+Disha Pandya,23MLAI26,ML-AI A,History,9.8,81,51,60,6.7,2,9,2,78
+Aditi Chauhan,23MLAI13,ML-AI A,Geography,1.0,67,51,63,8.4,10,5,7,45
+Divya Gupta,23MLAI22,ML-AI A,Geography,7.2,68,95,74,6.2,0,1,7,56
+Tanvi Mehra,23MLAI28,ML-AI A,Computer Science,6.9,85,63,57,4.8,3,3,2,61
+Megha Joshi,23MLAI09,ML-AI A,Economics,5.1,68,78,84,9.3,1,3,3,92
+Tanvi Mehra,23MLAI28,ML-AI A,Economics,1.4,96,47,62,9.0,9,9,7,68
+Karan Chauhan,23MLAI18,ML-AI A,Mathematics,9.1,84,83,58,4.5,1,7,5,90
+Aditi Chauhan,23MLAI13,ML-AI A,Mathematics,6.5,56,49,57,4.4,7,9,1,66
+Sneha Desai,23MLAI02,ML-AI A,Chemistry,1.3,75,68,79,4.7,3,2,10,67
+Omkar Singh,23MLAI25,ML-AI A,Physics,9.7,71,52,46,4.0,2,1,2,55
+Preeti Patel,23MLAI19,ML-AI A,Computer Science,3.9,91,68,48,5.5,10,9,4,41
+Rahul Kumar,23MLAI21,ML-AI A,History,2.4,93,50,64,5.9,1,8,5,82
+Vivek Iyer,23MLAI29,ML-AI A,Economics,3.1,56,84,59,6.8,7,7,3,78
+Simran Kaur,23MLAI15,ML-AI A,Computer Science,3.5,80,76,88,8.9,0,5,3,62
+Nirali Desai,23MLAI20,ML-AI A,Computer Science,8.0,61,52,83,7.6,5,2,2,80
+Pooja Sharma,23MLAI04,ML-AI A,Physics,6.4,71,73,81,7.9,2,3,7,77
+Ravi Mehta,23MLAI03,ML-AI A,History,2.4,100,45,74,6.1,7,9,10,72
+Rahul Kumar,23MLAI21,ML-AI A,Physics,10.9,89,81,75,5.5,5,3,7,86
+Devansh Shah,23MLAI06,ML-AI A,Geography,4.5,54,96,85,8.0,7,6,4,63
+Jaya Chintamreddy,23MLAI05,ML-AI A,Biology,9.8,50,72,93,6.0,1,6,2,52
+Raj Shah,23MLAI27,ML-AI A,History,1.8,67,74,91,6.9,4,4,3,100
+Vivek Iyer,23MLAI29,ML-AI A,Chemistry,5.8,54,58,41,6.7,3,1,3,80
+Isha Patel,23MLAI30,ML-AI A,Physics,11.6,72,89,90,4.4,5,10,8,43
+Tanvi Mehra,23MLAI28,ML-AI A,Physics,9.3,81,65,78,10.0,3,2,3,75
+Aditi Chauhan,23MLAI13,ML-AI A,History,3.2,99,74,51,7.4,6,3,10,49
+Aditi Chauhan,23MLAI13,ML-AI A,Geography,7.3,63,46,83,7.0,9,8,7,87
+Divya Gupta,23MLAI22,ML-AI A,Biology,3.3,76,47,87,5.6,8,4,8,73
+Devansh Shah,23MLAI06,ML-AI A,Physics,2.0,78,79,66,4.9,9,2,1,92
+Yash Thakkar,23MLAI12,ML-AI A,Physics,8.7,88,55,45,5.8,9,5,10,79
+Rohan Shah,23MLAI16,ML-AI A,Biology,7.5,99,56,92,4.3,10,8,7,71
+Disha Pandya,23MLAI26,ML-AI A,Physics,8.5,94,95,82,8.3,1,8,5,55
+Preeti Patel,23MLAI19,ML-AI A,Computer Science,10.0,80,82,68,9.2,2,3,7,74
+Jaya Chintamreddy,23MLAI05,ML-AI A,Chemistry,7.0,81,55,57,4.2,10,1,1,85
+Isha Patel,23MLAI30,ML-AI A,History,1.9,74,53,65,7.4,5,1,8,53
+Sneha Desai,23MLAI02,ML-AI A,Computer Science,10.0,50,68,44,4.6,3,1,1,87
+Sanya Jain,23MLAI24,ML-AI A,Mathematics,2.1,75,46,49,9.9,3,4,2,81
+Arjun Rathi,23MLAI23,ML-AI A,Computer Science,10.9,57,88,66,5.2,1,1,4,40
+Megha Joshi,23MLAI09,ML-AI A,Psychology,3.5,57,60,62,9.9,0,8,2,61
+Aryan Patel,23MLAI01,ML-AI A,Chemistry,5.4,50,65,81,8.3,10,2,1,76
+Arjun Rathi,23MLAI23,ML-AI A,Mathematics,9.4,55,78,96,7.2,5,6,2,68
+Preeti Patel,23MLAI19,ML-AI A,Biology,7.8,69,97,55,7.8,8,3,1,93
+Nikhil Rana,23MLAI10,ML-AI A,Psychology,5.7,100,68,81,4.5,1,4,9,77
+Harshita Yadav,23MLAI11,ML-AI A,Physics,6.2,56,79,61,4.1,0,8,6,41
+Vishal Sinha,23MLAI14,ML-AI A,Psychology,3.2,94,96,59,6.0,2,10,4,71
+Simran Kaur,23MLAI15,ML-AI A,History,3.1,77,62,47,4.3,3,9,6,73
+Karan Chauhan,23MLAI18,ML-AI A,Computer Science,3.8,99,57,88,6.9,7,5,10,82
+Aditi Chauhan,23MLAI13,ML-AI A,Psychology,11.2,86,48,86,8.1,6,3,2,74
+Harshita Yadav,23MLAI11,ML-AI A,Mathematics,12.0,89,48,82,4.1,3,9,10,58
+Pooja Sharma,23MLAI04,ML-AI A,Economics,6.6,64,83,84,9.8,0,7,7,68
+Karan Chauhan,23MLAI18,ML-AI A,Geography,3.3,50,90,86,7.2,0,4,10,43
+Sneha Desai,23MLAI02,ML-AI A,History,2.6,53,63,65,8.0,8,2,5,61
+Pooja Sharma,23MLAI04,ML-AI A,History,10.4,82,41,93,7.0,9,5,5,83
+Isha Patel,23MLAI30,ML-AI A,Computer Science,4.5,69,79,44,10.0,10,8,3,55
+Tanya Dave,23MLAI17,ML-AI A,Geography,5.4,90,88,52,8.2,9,6,10,79
+Harshita Yadav,23MLAI11,ML-AI A,Chemistry,10.1,88,49,92,7.5,8,7,5,58
+Karan Chauhan,23MLAI18,ML-AI A,English,4.8,80,88,46,7.6,2,9,10,90
+Nirali Desai,23MLAI20,ML-AI A,Biology,5.8,63,93,96,7.3,9,1,8,50
+Arjun Rathi,23MLAI23,ML-AI A,Mathematics,10.2,91,86,86,6.8,6,7,1,57
+Vishal Sinha,23MLAI14,ML-AI A,Physics,7.3,63,98,90,5.2,9,9,3,79
+Preeti Patel,23MLAI19,ML-AI A,Economics,3.2,65,59,70,6.0,2,5,2,90
+Tanvi Mehra,23MLAI28,ML-AI A,Physics,6.1,59,54,94,5.8,6,9,2,94
+Tanvi Mehra,23MLAI28,ML-AI A,Physics,4.8,61,47,58,9.8,5,5,9,71
+Ravi Mehta,23MLAI03,ML-AI A,Economics,7.7,68,79,76,7.1,3,8,3,49
+Ravi Mehta,23MLAI03,ML-AI A,Psychology,6.0,77,44,65,5.0,9,8,8,64
+Raj Shah,23MLAI27,ML-AI A,Geography,2.6,57,55,65,9.6,7,9,7,60
+Megha Joshi,23MLAI09,ML-AI A,Biology,3.2,94,69,89,5.5,2,5,8,100
+Jaya Chintamreddy,23MLAI05,ML-AI A,Computer Science,9.2,60,56,69,6.6,5,10,6,64
+Megha Joshi,23MLAI09,ML-AI A,Chemistry,1.3,80,93,92,8.4,2,8,6,63
+Vivek Iyer,23MLAI29,ML-AI A,Economics,10.5,88,95,87,6.6,1,5,7,84
+Nikhil Rana,23MLAI10,ML-AI A,Economics,5.8,94,57,48,9.2,1,8,10,59
+Rohan Shah,23MLAI16,ML-AI A,Physics,4.7,55,49,66,4.3,5,8,1,91
+Jaya Chintamreddy,23MLAI05,ML-AI A,History,7.1,81,93,76,9.8,0,3,10,74
+Rohan Shah,23MLAI16,ML-AI A,Biology,7.0,95,44,47,5.0,6,9,7,41
+Karan Chauhan,23MLAI18,ML-AI A,English,6.2,71,71,70,7.7,0,5,3,50
+Aman Verma,23MLAI08,ML-AI A,Biology,7.7,91,70,47,4.4,2,1,3,91
+Aman Verma,23MLAI08,ML-AI A,Biology,4.6,70,42,72,8.5,4,7,7,80
+Aditi Chauhan,23MLAI13,ML-AI A,Computer Science,9.3,89,67,48,5.3,6,9,1,66
+Disha Pandya,23MLAI26,ML-AI A,Biology,9.3,51,62,99,9.3,3,8,5,96
+Vivek Iyer,23MLAI29,ML-AI A,History,1.0,93,90,98,5.2,4,5,4,90
+Nikhil Rana,23MLAI10,ML-AI A,Computer Science,1.1,70,90,97,4.3,7,6,3,73
+Aditi Chauhan,23MLAI13,ML-AI A,Biology,8.2,93,66,65,9.6,10,4,9,93
+Disha Pandya,23MLAI26,ML-AI A,Mathematics,8.6,71,43,93,7.7,1,2,2,84
+Yash Thakkar,23MLAI12,ML-AI A,Geography,3.0,100,48,87,7.7,3,2,10,95
+Aditi Chauhan,23MLAI13,ML-AI A,English,9.6,96,63,67,9.0,2,2,1,91
+Divya Gupta,23MLAI22,ML-AI A,Geography,8.7,53,61,97,6.7,6,5,4,58
+Tanvi Mehra,23MLAI28,ML-AI A,Computer Science,9.5,68,82,62,7.5,6,4,3,85
+Vishal Sinha,23MLAI14,ML-AI A,Chemistry,6.7,66,86,87,6.8,4,4,9,56
+Rahul Kumar,23MLAI21,ML-AI A,Psychology,4.9,83,49,49,9.1,1,2,4,41
+Aditi Chauhan,23MLAI13,ML-AI A,Geography,7.0,82,55,69,6.1,4,1,7,53
+Aryan Patel,23MLAI01,ML-AI A,Geography,2.5,57,96,96,8.0,7,3,10,98
+Rohan Shah,23MLAI16,ML-AI A,Biology,9.0,50,95,77,5.5,6,10,4,79
+Omkar Singh,23MLAI25,ML-AI A,Biology,9.0,69,91,48,9.4,2,2,4,54
+Pooja Sharma,23MLAI04,ML-AI A,Biology,11.2,71,72,97,9.8,8,7,6,41
+Vishal Sinha,23MLAI14,ML-AI A,Chemistry,10.5,85,91,76,4.6,2,2,1,73
+Tanya Dave,23MLAI17,ML-AI A,Chemistry,5.5,91,74,46,5.1,6,4,5,62
+Rahul Kumar,23MLAI21,ML-AI A,Mathematics,7.7,65,74,60,8.4,0,3,7,67
+Ravi Mehta,23MLAI03,ML-AI A,Chemistry,2.0,59,70,81,7.8,7,7,1,100
+Vishal Sinha,23MLAI14,ML-AI A,Chemistry,5.0,55,42,61,9.6,3,5,3,44
+Aman Verma,23MLAI08,ML-AI A,English,3.9,79,100,95,6.6,6,10,2,86
+Karan Chauhan,23MLAI18,ML-AI A,Biology,10.2,58,93,82,4.3,0,6,3,69
+Sanya Jain,23MLAI24,ML-AI A,Computer Science,4.0,56,92,47,4.4,0,6,7,45
+Yash Thakkar,23MLAI12,ML-AI A,Physics,7.1,81,71,47,9.0,8,5,2,54
+Yash Thakkar,23MLAI12,ML-AI A,History,2.2,62,64,55,4.9,7,9,7,57
+Arjun Rathi,23MLAI23,ML-AI A,Chemistry,2.6,80,40,81,6.0,9,6,9,66
+Omkar Singh,23MLAI25,ML-AI A,Mathematics,3.5,68,92,95,9.8,1,7,8,73
+Nikhil Rana,23MLAI10,ML-AI A,English,11.1,100,65,70,4.8,8,7,6,53
+Pooja Sharma,23MLAI04,ML-AI A,Economics,6.1,83,72,60,6.1,4,5,3,43
+Megha Joshi,23MLAI09,ML-AI A,Computer Science,2.0,60,100,100,6.5,3,1,4,70
+Megha Joshi,23MLAI09,ML-AI A,Chemistry,3.6,90,88,84,6.1,8,5,8,75
+Arjun Rathi,23MLAI23,ML-AI A,Computer Science,11.8,63,49,78,6.8,9,3,10,74
+Arjun Rathi,23MLAI23,ML-AI A,Economics,8.4,79,65,98,6.0,5,4,10,82
+Preeti Patel,23MLAI19,ML-AI A,Computer Science,10.2,79,65,82,8.7,7,1,4,80
+Raj Shah,23MLAI27,ML-AI A,Computer Science,2.3,93,40,87,9.9,10,4,10,89
+Rahul Kumar,23MLAI21,ML-AI A,Psychology,8.9,58,80,72,4.5,3,7,1,77
+Jaya Chintamreddy,23MLAI05,ML-AI A,Chemistry,10.7,70,78,89,5.0,4,8,3,87
+Rahul Kumar,23MLAI21,ML-AI A,History,2.0,82,49,99,7.4,0,7,7,97
+Karan Chauhan,23MLAI18,ML-AI A,Biology,11.3,82,61,45,7.8,4,5,9,100
+Divya Gupta,23MLAI22,ML-AI A,Psychology,9.9,79,86,97,8.7,0,3,2,88
+Pooja Sharma,23MLAI04,ML-AI A,Mathematics,8.0,53,100,92,9.7,8,7,10,68
+Raj Shah,23MLAI27,ML-AI A,History,3.0,96,63,78,6.9,8,1,5,64
+Aman Verma,23MLAI08,ML-AI A,History,9.1,55,89,63,9.7,1,8,1,62
+Aman Verma,23MLAI08,ML-AI A,Psychology,6.2,77,66,94,8.0,0,5,3,100
+Megha Joshi,23MLAI09,ML-AI A,Computer Science,10.9,92,83,94,7.8,4,5,7,86
+Yash Thakkar,23MLAI12,ML-AI A,Economics,11.9,88,54,75,4.8,6,6,10,92
+Sneha Desai,23MLAI02,ML-AI A,Economics,6.5,58,42,82,8.0,7,9,7,49
+Harshita Yadav,23MLAI11,ML-AI A,Mathematics,9.3,81,89,53,8.4,5,2,6,100
+Raj Shah,23MLAI27,ML-AI A,Mathematics,9.8,91,59,83,8.1,6,2,8,76
+Vishal Sinha,23MLAI14,ML-AI A,Physics,9.8,94,59,92,8.6,3,5,7,64
+Tanvi Mehra,23MLAI28,ML-AI A,Psychology,6.8,83,52,66,4.2,5,10,2,59
+Divya Gupta,23MLAI22,ML-AI A,English,8.0,84,42,52,5.0,8,2,4,95
+Tanya Dave,23MLAI17,ML-AI A,Economics,10.1,82,86,74,8.0,3,1,1,52
+Arjun Rathi,23MLAI23,ML-AI A,Geography,9.9,95,58,43,7.4,2,3,9,66
+Aryan Patel,23MLAI01,ML-AI A,English,9.7,86,60,68,5.9,10,2,4,56
+Megha Joshi,23MLAI09,ML-AI A,Computer Science,12.0,70,88,90,6.3,10,8,4,72
+Aman Verma,23MLAI08,ML-AI A,Chemistry,7.6,62,48,49,7.3,9,8,10,91
+Disha Pandya,23MLAI26,ML-AI A,Geography,6.4,90,99,95,5.5,1,9,9,78
+Rohan Shah,23MLAI16,ML-AI A,Mathematics,9.1,59,74,78,4.6,2,5,4,48
+Aman Verma,23MLAI08,ML-AI A,English,5.9,59,62,82,8.7,4,9,3,40
+Karan Chauhan,23MLAI18,ML-AI A,Psychology,11.0,87,87,88,6.0,0,5,6,66
+Vishal Sinha,23MLAI14,ML-AI A,Chemistry,3.1,99,41,66,5.2,7,8,9,63
+Isha Patel,23MLAI30,ML-AI A,Mathematics,9.9,52,88,81,7.1,10,9,7,45
+Omkar Singh,23MLAI25,ML-AI A,Mathematics,9.9,56,95,89,7.9,8,7,10,41
+Rohan Shah,23MLAI16,ML-AI A,Mathematics,8.9,62,60,99,8.0,2,1,8,65
+Divya Gupta,23MLAI22,ML-AI A,Physics,3.6,78,93,72,9.7,9,9,5,52
+Tanya Dave,23MLAI17,ML-AI A,Chemistry,2.1,90,67,89,4.7,5,3,7,54
+Tanya Dave,23MLAI17,ML-AI A,Geography,5.3,77,78,86,4.8,3,4,2,73
+Kavya Nair,23MLAI07,ML-AI A,Chemistry,1.7,96,76,70,6.6,10,2,7,43
+Megha Joshi,23MLAI09,ML-AI A,Chemistry,7.4,91,80,79,6.7,1,5,9,47
+Kavya Nair,23MLAI07,ML-AI A,Computer Science,11.6,50,59,89,4.9,5,2,9,85
+Karan Chauhan,23MLAI18,ML-AI A,Geography,2.5,57,43,96,4.3,1,8,10,100
+Pooja Sharma,23MLAI04,ML-AI A,Geography,8.1,71,72,78,9.9,0,3,2,98
+Aditi Chauhan,23MLAI13,ML-AI A,Computer Science,4.5,70,63,40,4.3,3,6,1,74
+Megha Joshi,23MLAI09,ML-AI A,Economics,5.6,73,85,41,4.8,8,10,9,94
+Jaya Chintamreddy,23MLAI05,ML-AI A,Physics,11.4,79,98,60,9.7,6,1,4,44
+Isha Patel,23MLAI30,ML-AI A,Economics,6.0,91,100,70,7.1,3,7,4,70
+Omkar Singh,23MLAI25,ML-AI A,Physics,4.7,83,62,69,9.7,8,6,4,57
+Ravi Mehta,23MLAI03,ML-AI A,English,9.6,83,55,99,5.8,4,4,8,96
+Yash Thakkar,23MLAI12,ML-AI A,History,3.1,53,88,85,8.8,0,4,5,64
+Aditi Chauhan,23MLAI13,ML-AI A,Chemistry,11.0,89,78,100,9.9,3,10,10,57
+Tanvi Mehra,23MLAI28,ML-AI A,English,4.9,63,85,84,5.3,8,8,6,54
+Aryan Patel,23MLAI01,ML-AI A,Chemistry,8.7,84,71,77,9.5,1,4,3,49
+Aditi Chauhan,23MLAI13,ML-AI A,Geography,4.1,79,88,85,7.1,8,8,4,49
+Arjun Rathi,23MLAI23,ML-AI A,Economics,3.9,68,89,52,8.2,5,3,8,66
+Karan Chauhan,23MLAI18,ML-AI A,Economics,6.7,62,89,75,8.8,10,2,6,49
+Isha Patel,23MLAI30,ML-AI A,Physics,7.7,93,51,93,8.3,1,6,2,75
+Kavya Nair,23MLAI07,ML-AI A,Computer Science,11.3,60,70,59,4.4,4,9,5,46
+Simran Kaur,23MLAI15,ML-AI A,Mathematics,10.4,72,54,45,9.0,2,3,6,62
+Yash Thakkar,23MLAI12,ML-AI A,Biology,8.0,88,58,86,4.7,6,2,5,48
+Rohan Shah,23MLAI16,ML-AI A,Computer Science,4.7,63,68,46,4.8,1,2,8,90
+Devansh Shah,23MLAI06,ML-AI A,English,8.7,92,84,83,8.2,4,7,5,100
+Disha Pandya,23MLAI26,ML-AI A,Computer Science,11.0,84,73,89,9.8,1,10,5,72
+Nirali Desai,23MLAI20,ML-AI A,Mathematics,3.4,81,56,45,5.7,2,5,6,87
+Isha Patel,23MLAI30,ML-AI A,Mathematics,8.4,66,86,88,7.8,0,6,3,48
+Devansh Shah,23MLAI06,ML-AI A,English,9.2,99,95,44,9.6,9,6,4,87
+Harshita Yadav,23MLAI11,ML-AI A,Mathematics,9.9,87,43,51,9.1,2,3,1,95
+Aditi Chauhan,23MLAI13,ML-AI A,Geography,3.0,57,95,53,4.8,1,8,5,73
+Sneha Desai,23MLAI02,ML-AI A,Psychology,6.1,50,98,46,9.1,7,8,9,45
+Tanya Dave,23MLAI17,ML-AI A,Economics,5.4,85,97,91,6.4,6,4,4,82
+Sanya Jain,23MLAI24,ML-AI A,History,2.4,63,72,93,6.8,7,1,10,53
+Tanya Dave,23MLAI17,ML-AI A,Physics,9.6,80,57,43,9.4,4,2,7,67
+Disha Pandya,23MLAI26,ML-AI A,Physics,7.6,94,73,82,4.3,4,3,10,84
+Karan Chauhan,23MLAI18,ML-AI A,English,1.5,50,44,84,10.0,6,9,6,78
+Vivek Iyer,23MLAI29,ML-AI A,Economics,10.7,55,53,83,9.3,8,2,7,64
+Aman Verma,23MLAI08,ML-AI A,Biology,2.5,85,91,46,4.4,9,5,7,78
+Aditi Chauhan,23MLAI13,ML-AI A,Physics,11.3,91,40,58,5.3,8,5,8,89
+Simran Kaur,23MLAI15,ML-AI A,English,5.0,59,74,52,4.5,9,4,6,47
+Arjun Rathi,23MLAI23,ML-AI A,Biology,11.3,74,92,74,4.8,8,4,7,62
+Vivek Iyer,23MLAI29,ML-AI A,Computer Science,8.7,57,94,48,4.2,6,2,9,62
+Kavya Nair,23MLAI07,ML-AI A,Mathematics,11.4,84,55,44,9.1,2,5,9,64
+Omkar Singh,23MLAI25,ML-AI A,English,4.8,99,88,72,5.2,2,7,10,95
+Aditi Chauhan,23MLAI13,ML-AI A,Computer Science,5.9,70,86,40,7.4,4,2,4,66
+Yash Thakkar,23MLAI12,ML-AI A,Computer Science,1.6,80,70,87,7.5,6,9,5,95
+Karan Chauhan,23MLAI18,ML-AI A,Chemistry,4.6,59,93,94,7.5,8,8,9,51
+Megha Joshi,23MLAI09,ML-AI A,Physics,2.1,67,96,73,4.9,0,2,6,62
+Rahul Kumar,23MLAI21,ML-AI A,Psychology,1.9,51,48,97,9.6,5,9,2,70
+Divya Gupta,23MLAI22,ML-AI A,Geography,8.0,93,77,93,5.2,3,4,5,72
+Yash Thakkar,23MLAI12,ML-AI A,Mathematics,1.7,94,50,81,4.7,7,2,2,77
+Sneha Desai,23MLAI02,ML-AI A,Chemistry,2.8,71,82,59,6.2,10,5,1,45
+Kavya Nair,23MLAI07,ML-AI A,Economics,2.0,100,70,94,5.7,0,6,6,77
+Rahul Kumar,23MLAI21,ML-AI A,Mathematics,1.9,58,49,55,8.9,0,1,9,93
+Raj Shah,23MLAI27,ML-AI A,Chemistry,9.2,61,84,91,5.7,6,1,6,57
+Raj Shah,23MLAI27,ML-AI A,Physics,5.7,60,80,70,7.2,9,7,5,50
+Aryan Patel,23MLAI01,ML-AI A,English,11.8,60,45,88,6.6,1,5,3,57
+Raj Shah,23MLAI27,ML-AI A,Economics,1.1,66,44,57,7.3,5,1,7,61
+Isha Patel,23MLAI30,ML-AI A,Economics,11.2,71,44,57,4.7,3,2,6,97
+Raj Shah,23MLAI27,ML-AI A,Psychology,5.5,92,87,80,6.7,3,6,6,100
+Sanya Jain,23MLAI24,ML-AI A,History,5.4,58,55,78,7.9,6,9,9,76
+Raj Shah,23MLAI27,ML-AI A,History,10.4,82,55,53,7.1,9,4,3,57
+Sanya Jain,23MLAI24,ML-AI A,English,6.5,54,88,43,6.7,5,2,9,60
+Tanya Dave,23MLAI17,ML-AI A,English,7.0,52,93,55,9.1,6,10,4,81
+Devansh Shah,23MLAI06,ML-AI A,History,6.5,92,78,52,4.7,9,9,10,46
+Omkar Singh,23MLAI25,ML-AI A,Mathematics,7.1,74,65,72,9.3,4,8,1,97
+Rahul Kumar,23MLAI21,ML-AI A,Computer Science,8.9,60,64,88,4.9,8,1,1,58
+Sanya Jain,23MLAI24,ML-AI A,History,5.5,88,45,97,5.9,8,5,6,97
+Rahul Kumar,23MLAI21,ML-AI A,History,2.0,85,60,51,8.1,1,2,7,92
+Vishal Sinha,23MLAI14,ML-AI A,Economics,3.7,83,68,88,5.5,0,5,2,89
+Yash Thakkar,23MLAI12,ML-AI A,Psychology,2.8,71,57,74,5.1,9,6,2,90
+Devansh Shah,23MLAI06,ML-AI A,Psychology,4.6,55,91,93,7.6,0,9,5,92
+Rahul Kumar,23MLAI21,ML-AI A,History,5.2,52,50,78,6.6,4,6,9,98
+Divya Gupta,23MLAI22,ML-AI A,Mathematics,5.6,86,85,61,9.1,0,4,4,62
+Vivek Iyer,23MLAI29,ML-AI A,Computer Science,2.9,86,70,80,6.0,6,8,9,87
+Ravi Mehta,23MLAI03,ML-AI A,Chemistry,1.7,75,87,64,9.2,5,4,4,99
+Tanvi Mehra,23MLAI28,ML-AI A,Geography,1.1,94,89,86,4.4,7,9,2,89
+Pooja Sharma,23MLAI04,ML-AI A,Biology,5.2,86,64,47,8.3,5,10,5,40
+Divya Gupta,23MLAI22,ML-AI A,Mathematics,8.8,81,67,41,6.7,4,4,4,63
+Sanya Jain,23MLAI24,ML-AI A,Biology,5.7,60,91,47,8.8,1,1,1,65
+Sanya Jain,23MLAI24,ML-AI A,Computer Science,4.3,70,57,56,4.4,2,10,9,54
+Sneha Desai,23MLAI02,ML-AI A,English,10.2,84,73,95,4.5,1,8,4,52
+Isha Patel,23MLAI30,ML-AI A,Psychology,8.2,70,79,85,4.4,6,4,5,60
+Preeti Patel,23MLAI19,ML-AI A,Geography,7.2,54,79,85,8.2,0,6,4,72
+Omkar Singh,23MLAI25,ML-AI A,Geography,8.3,55,64,43,8.7,4,3,1,54
+Pooja Sharma,23MLAI04,ML-AI A,History,1.8,100,62,47,8.6,6,7,9,66
+Aman Verma,23MLAI08,ML-AI A,Economics,9.6,51,66,59,9.9,10,3,5,92
+Simran Kaur,23MLAI15,ML-AI A,Computer Science,10.7,99,52,69,8.3,5,9,7,82
+Aryan Patel,23MLAI01,ML-AI A,Psychology,10.3,75,61,96,6.3,8,1,5,80
+Vivek Iyer,23MLAI29,ML-AI A,Psychology,11.4,95,82,96,9.0,8,10,5,52
+Aditi Chauhan,23MLAI13,ML-AI A,Computer Science,9.5,75,77,52,8.4,5,6,6,81
+Tanya Dave,23MLAI17,ML-AI A,Biology,6.3,60,62,59,9.3,6,3,5,73
+Aryan Patel,23MLAI01,ML-AI A,Biology,8.3,89,58,69,8.3,10,4,3,67
+Pooja Sharma,23MLAI04,ML-AI A,Geography,1.8,86,96,74,5.6,9,5,4,63
+Devansh Shah,23MLAI06,ML-AI A,History,1.5,83,46,80,7.3,7,6,2,69
+Nikhil Rana,23MLAI10,ML-AI A,Biology,4.8,62,77,48,9.9,5,1,1,62
+Kavya Nair,23MLAI07,ML-AI A,Physics,5.9,91,52,43,8.4,3,9,3,65
+Tanvi Mehra,23MLAI28,ML-AI A,History,7.5,89,60,67,5.5,3,4,1,71
+Pooja Sharma,23MLAI04,ML-AI A,Physics,11.0,73,82,98,7.2,5,1,8,48
+Vishal Sinha,23MLAI14,ML-AI A,Physics,11.0,76,68,61,9.6,8,7,2,42
+Karan Chauhan,23MLAI18,ML-AI A,Physics,8.1,69,85,57,6.6,0,10,2,99
+Aman Verma,23MLAI08,ML-AI A,Economics,4.8,78,63,100,9.5,0,5,4,92
+Aditi Chauhan,23MLAI13,ML-AI A,History,6.2,74,51,71,7.0,10,9,1,54
+Pooja Sharma,23MLAI04,ML-AI A,English,10.8,77,83,61,8.7,9,7,8,88
+Megha Joshi,23MLAI09,ML-AI A,Psychology,4.3,90,87,74,9.7,4,4,9,96
+Rohan Shah,23MLAI16,ML-AI A,Economics,9.3,97,86,79,4.6,6,8,3,47
+Aryan Patel,23MLAI01,ML-AI A,Psychology,2.8,62,48,100,9.4,6,4,3,78
+Pooja Sharma,23MLAI04,ML-AI A,Biology,7.4,68,77,74,4.7,5,9,3,42
+Nikhil Rana,23MLAI10,ML-AI A,English,4.3,66,92,86,5.6,7,3,5,74
+Harshita Yadav,23MLAI11,ML-AI A,English,8.8,81,47,62,9.0,0,4,9,41
+Nirali Desai,23MLAI20,ML-AI A,Physics,6.1,65,60,66,8.4,5,6,1,59
+Arjun Rathi,23MLAI23,ML-AI A,Chemistry,7.8,98,82,78,9.9,5,4,8,61
+Vivek Iyer,23MLAI29,ML-AI A,Psychology,8.3,88,94,61,8.8,0,4,9,72
+Megha Joshi,23MLAI09,ML-AI A,Chemistry,11.1,92,44,64,4.2,8,3,4,74
+Tanya Dave,23MLAI17,ML-AI A,English,5.5,61,40,86,6.1,3,1,5,81
+Jaya Chintamreddy,23MLAI05,ML-AI A,Biology,10.2,93,96,62,4.6,9,7,1,40
+Rahul Kumar,23MLAI21,ML-AI A,English,3.7,79,74,79,9.4,1,6,3,79
+Nikhil Rana,23MLAI10,ML-AI A,Economics,6.2,54,55,68,8.6,9,3,4,99
+Kavya Nair,23MLAI07,ML-AI A,Psychology,8.3,86,45,59,9.9,5,3,7,67
+Sanya Jain,23MLAI24,ML-AI A,History,9.7,79,90,97,4.7,1,2,3,97
+Harshita Yadav,23MLAI11,ML-AI A,Biology,4.2,97,57,71,4.5,1,4,3,62
+Rahul Kumar,23MLAI21,ML-AI A,Biology,4.8,87,50,92,6.2,6,5,5,69
+Kavya Nair,23MLAI07,ML-AI A,History,6.1,94,81,48,8.5,6,9,3,57
+Aryan Patel,23MLAI01,ML-AI A,Physics,11.2,92,64,85,9.9,3,1,6,100
+Harshita Yadav,23MLAI11,ML-AI A,Geography,6.4,94,93,55,4.1,9,7,8,50
+Preeti Patel,23MLAI19,ML-AI A,Geography,9.3,57,45,100,9.7,4,5,2,94
+Vishal Sinha,23MLAI14,ML-AI A,Mathematics,1.4,99,87,89,6.7,2,3,10,77
+Isha Patel,23MLAI30,ML-AI A,Mathematics,10.7,63,65,67,8.7,1,8,1,63
+Isha Patel,23MLAI30,ML-AI A,Economics,8.9,88,61,80,6.0,5,6,10,60
+Megha Joshi,23MLAI09,ML-AI A,Economics,10.9,61,62,76,7.7,10,5,4,52
+Devansh Shah,23MLAI06,ML-AI A,Psychology,9.5,57,62,89,9.9,9,8,10,86
+Harshita Yadav,23MLAI11,ML-AI A,Chemistry,11.1,52,68,96,8.9,4,6,9,46
+Divya Gupta,23MLAI22,ML-AI A,History,5.6,80,93,97,4.6,5,7,9,61
+Rohan Shah,23MLAI16,ML-AI A,Physics,5.4,91,88,82,7.3,7,2,3,62
+Preeti Patel,23MLAI19,ML-AI A,Physics,9.1,82,63,79,4.9,7,5,6,97
+Sneha Desai,23MLAI02,ML-AI A,Psychology,10.1,89,55,46,4.8,7,1,8,55
+Aman Verma,23MLAI08,ML-AI A,Chemistry,3.4,99,78,73,7.2,3,9,2,50
+Nikhil Rana,23MLAI10,ML-AI A,Chemistry,10.9,65,62,88,9.1,6,10,3,40
+Simran Kaur,23MLAI15,ML-AI A,Geography,1.4,94,44,80,9.9,8,10,8,97
+Devansh Shah,23MLAI06,ML-AI A,Computer Science,8.8,78,60,72,4.4,4,1,5,84
+Divya Gupta,23MLAI22,ML-AI A,Mathematics,11.2,79,82,83,4.2,2,8,6,54
+Tanya Dave,23MLAI17,ML-AI A,English,11.5,80,78,83,9.7,7,3,7,77
+Sneha Desai,23MLAI02,ML-AI A,Economics,12.0,71,58,53,6.6,2,8,4,64
+Vivek Iyer,23MLAI29,ML-AI A,Computer Science,10.7,91,45,95,5.8,6,9,6,89
+Arjun Rathi,23MLAI23,ML-AI A,Physics,6.0,81,95,97,8.2,0,5,4,73
+Nikhil Rana,23MLAI10,ML-AI A,History,8.0,80,54,64,6.4,4,7,5,41
